@@ -43,8 +43,8 @@ feature_row1:
 feature_row5:
   - image_path:
     # image_caption: "North office building"
-    title: NEW LOCATION
-    excerpt: "Our new address is 2617 St Johns St. Port Moody. Check our recent post."
+    title: NEW LOCATION (Ryu Clinic @ Momentum Therapeutics)
+    excerpt: "Our new address is 3056 Glen Dr unit # 500, Coquitlam, BC"
     url: /news/ryu-clinic-is-moving/
     btn_label: "Read More"
     btn_class: "btn--primary"
