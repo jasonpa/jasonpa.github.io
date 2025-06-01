@@ -15,6 +15,14 @@ header:
       url: "https://ryuclinic.janeapp.com"
 excerpt: "Ryu Clinic offers a holistic health approach with acupuncture, massage therapy and herbal medicine services. We are conveniently located in downtown Port Moody. The conditions we treat include pain management, TCM psychology, pediatrics, gynecology, and immune-related health issues."
 
+feature_row5:
+  - image_path:
+    title: 2025 NEW LOCATION Notice
+    excerpt: "Pleaes check our recent post below"
+    url: /news/newsletter/ryu-clinic-relocation-notice/
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
 intro:
   - title: "We Look Your Body Not Symptoms Only"
     excerpt: "When your health condition is not getting better under your current treatment approach, consider a holistic approach. We aim at correcting the balance of your body and improving your health as a whole. It can be an alternative or complementary treatment for you. We believe treatments should be proven, effective, and safe. And we do our best to find the most effective plan to treat the condition you have. Many illnesses, especially chronic health conditions, are structural, functional, and/or psychological problems."
@@ -37,15 +45,6 @@ feature_row1:
     title: ICBC COVERS TREATMENTS
     excerpt: "All you need is your ICBC Claim Number"
     url: icbc-motor-vehicle-accident-assessment-and-treatment
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-
-feature_row5:
-  - image_path:
-    # image_caption: "North office building"
-    title: NEW LOCATION (Ryu Clinic @ Momentum Therapeutics)
-    excerpt: "Our new address is 3056 Glen Dr unit # 500, Coquitlam, BC"
-    url: /news/ryu-clinic-is-moving/
     btn_label: "Read More"
     btn_class: "btn--primary"
 
