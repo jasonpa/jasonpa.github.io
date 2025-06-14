@@ -52,6 +52,8 @@ feature_row3:
     title: " Herbal Medicine"
     #excerpt: "The purpose of Herbal Medicine or TEM(Traditional Eastern Medicine), TCM(Traditional Chinese Medicine) is to recover the natural balance of your body. It can not only enhance recuperative power, immunity and physical and emotional health but also improve overall function and well-being."
     excerpt: "TEM (Traditional Eastern Medicine) is an experienced and wholistic technique under the umbrella of TCM practices. It involves a personalized herbal medicine based on the accumulated health data for thousands of years. It is used to enhance our recuperative power, immunity, and physical and emotional health and improve our overall function and well-being. It is employed to treat over one-quarter of the world's population. [Jiman Ryu (R.Ac. R.TCM.P.)](/about/teams) is a registered TCM practitioner with [CTCMA](https://www.ctcma.bc.ca/). Jiman is trained and experienced in treating patients across variability from simple cold symptoms to serious and complex health conditions."
+  
+feature_row4:
   - image_path: /assets/images/needle.jpg
     title: "Acupuncture"
     #excerpt: "Our integrated approach incorporates both research-based and time-tested treatments combining Chinese medicine, acupuncture, acupoint-injection and functional medicine. Rather than taking a traditional disease-centred focus, we address the underlying causes of disease using a patient-centred approach addressing the whole person, not just an isolated set of symptoms."
@@ -85,6 +87,7 @@ feature_row3:
     #  - image_path: /assets/images/evie-s-kqJfP-lrl-8-unsplash.jpg
     #    title: "Prolotherapy"
     #    excerpt: ""
+    
 ---
 
 {% include feature_row id="intro" type="center" %}
