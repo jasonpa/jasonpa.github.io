@@ -61,23 +61,24 @@ feature_row3:
   #  - image_path: /assets/images/photo-1576671081803-5dcb9836dc61.jpeg
   #    title: "Injection Therapy"
   #    excerpt: "Promote the natural self-healing process by stimulating specific anatomic sites with injection. Various types of injections available. Acupoint-Acupuncture, Ashi points, Trigger Point/Myofacial-Muscle and fascia, Regenerative-TCM Bone Pecking techniques"
-  - image_path: /assets/images/photo-1591343395082-e120087004b4.jpeg
-    title: "Massage Therapy"
+#  - image_path: /assets/images/photo-1591343395082-e120087004b4.jpeg
+#    title: "Massage Therapy"
     #excerpt: "Massage therapy is used to help manage a health condition or enhance wellness. It involves manipulating the soft tissues of the body."
-    excerpt: "Massage therapy is the scientific manipulation of the soft tissues of the body. The treatment includes primarily manual techniques such as applying fixed or movable pressure, holding and moving muscles and body tissues. The purpose is to rehabilitate the body's physical function, relieve pain, and promote health and well-being. Yeonha Kim (R.Ac. RMT) is a trained Registered Massage Therapist (RMT) with [CMTBC](https://cmtbc.ca/). She has years of experience, and she is passionate about her work in massage therapy."
-    url: /treatment/massage-therapy-overview/
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row4:
-  - image_path: /assets/images/88610874-53BB-422D-B963-03E0408F5404.jpeg
-    title: "Acupuncture"
-    #    excerpt: "Our integrated approach incorporates both research-based and time-tested treatments combining Chinese medicine, acupuncture, acupoint-injection and functional medicine. Rather than taking a traditional disease-centred focus, we address the underlying causes of disease using a patient-centred approach addressing the whole person, not just an isolated set of symptoms."
-    excerpt: "Traditional Chinese Medicine (TCM) practices draw from holistic Eastern healing techniques. Acupuncture is the most common technique used. It improves health and stimulates the body’s natural healing mechanisms by stimulating acupressure points/meridians using a fine, sterile needle. Pressure, heat, or electrical stimulation may further enhance the effects. You do not need a physician’s referral to attend acupuncture sessions. ICBC allows Acupuncturists in BC to directly bill for treatments provided to patients who have sustained injuries in a motor vehicle accident. Some extended health plans may cover the cost of the treatment as well. Please review your private insurance plan for more details."
+#    excerpt: "Massage therapy is the scientific manipulation of the soft tissues of the body. The treatment includes primarily manual techniques such as applying fixed or movable pressure, holding and moving muscles and body tissues. The purpose is to rehabilitate the body's physical function, relieve pain, and promote health and well-being. Yeonha Kim (R.Ac. RMT) is a trained Registered Massage Therapist (RMT) with [CMTBC](https://cmtbc.ca/). She has years of experience, and she is passionate about her work in massage therapy."
+#    url: /treatment/massage-therapy-overview/
+#    btn_label: "Read More"
+#    btn_class: "btn--primary"
 
-feature_row5:
-  - image_path: /assets/images/photo-1576671081803-5dcb9836dc61.jpeg
-    title: "Regenerative Acupuncture Injection Therapy"
-    excerpt: "Promote the natural self-healing process by stimulating specific anatomic sites with injection."
+#feature_row4:
+#  - image_path: /assets/images/88610874-53BB-422D-B963-03E0408F5404.jpeg
+#    title: "Acupuncture"
+    #    excerpt: "Our integrated approach incorporates both research-based and time-tested treatments combining Chinese medicine, acupuncture, acupoint-injection and functional medicine. Rather than taking a traditional disease-centred focus, we address the underlying causes of disease using a patient-centred approach addressing the whole person, not just an isolated set of symptoms."
+#    excerpt: "Traditional Chinese Medicine (TCM) practices draw from holistic Eastern healing techniques. Acupuncture is the most common technique used. It improves health and stimulates the body’s natural healing mechanisms by stimulating acupressure points/meridians using a fine, sterile needle. Pressure, heat, or electrical stimulation may further enhance the effects. You do not need a physician’s referral to attend acupuncture sessions. ICBC allows Acupuncturists in BC to directly bill for treatments provided to patients who have sustained injuries in a motor vehicle accident. Some extended health plans may cover the cost of the treatment as well. Please review your private insurance plan for more details."
+
+#feature_row5:
+#  - image_path: /assets/images/photo-1576671081803-5dcb9836dc61.jpeg
+#    title: "Regenerative Acupuncture Injection Therapy"
+#    excerpt: "Promote the natural self-healing process by stimulating specific anatomic sites with injection."
     #  - image_path: /assets/images/evie-s-kqJfP-lrl-8-unsplash.jpg
     #    title: "OZone Therapy"
     #    excerpt: ""
