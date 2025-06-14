@@ -70,14 +70,14 @@ He never stops studying for his patients. He is passionate about studying herbal
 |**2000-2006** Software developer at [HandySoft](http://www.handysoft.co.kr/en/), South Korea.
 
 ---
-
+<!--
 # Oliviah(Yeonha) Kim, R.Ac., R.M.T.
 
 ![Oliviah](/assets/images/oliviah.jpg)
 
 Oliviah Kim is a registered acupuncturist (R.A.) with CTCMA and a Registered Massage Therapist (RMT) with CMTBC. She is passionate about deep tissue massage to treat body pain and to release stress. She uses massage techniques learned from both disciplines. They include Tui-Na massage therapy, cupping, moxibustion, aromatherapy, and lymph drainage.
 
-<!-- # Jasmine(Mi Kyung) Bae, R.Ac.
+# Jasmine(Mi Kyung) Bae, R.Ac.
 
 ![Jasmine](/assets/images/jasmine.jpg)
 

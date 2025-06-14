@@ -1,5 +1,5 @@
 ---
-title: "Acupuncture, RMT &amp; Herbal Medicine"
+title: "Acupuncture, &amp; Herbal Medicine"
 layout: splash
 #classes:
 #  - landing
@@ -8,20 +8,11 @@ date: 2020-12-02 00:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
-  #overlay_image: /assets/images/photo-1542491873-564432bfb050.jpeg
   overlay_image: /assets/images/canstockphoto76760980.jpg
   actions:
     - label: "Online Booking"
-      url: "https://ryuclinic.janeapp.com"
+      url: "https://momentum.janeapp.com/locations/glen-drive-momentum-therapeutics-health-care-clinic/book#/staff_member/139"
 excerpt: "Ryu Clinic offers a holistic health approach with acupuncture, massage therapy and herbal medicine services. We are conveniently located in downtown Port Moody. The conditions we treat include pain management, TCM psychology, pediatrics, gynecology, and immune-related health issues."
-
-feature_row5:
-  - image_path:
-    title: 2025 NEW LOCATION Notice
-    excerpt: "Pleaes check our recent post below"
-    url: /news/newsletter/ryu-clinic-relocation-notice/
-    btn_label: "Read More"
-    btn_class: "btn--primary"
 
 intro:
   - title: "We Look Your Body Not Symptoms Only"
@@ -42,13 +33,21 @@ feature_row:
 
 feature_row1:
   - image_path:
+    title: 2025 NEW LOCATION Notice
+    excerpt: "Pleaes check our recent post below"
+    url: /news/newsletter/ryu-clinic-relocation-notice/
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
+feature_row2:
+  - image_path:
     title: ICBC COVERS TREATMENTS
     excerpt: "All you need is your ICBC Claim Number"
     url: icbc-motor-vehicle-accident-assessment-and-treatment
     btn_label: "Read More"
     btn_class: "btn--primary"
 
-feature_row2:
+feature_row3:
   - image_path: /assets/images/rcaNUh3pQ9GD8w7Iy8qE__DSC0940.jpg
     title: " Herbal Medicine"
     #excerpt: "The purpose of Herbal Medicine or TEM(Traditional Eastern Medicine), TCM(Traditional Chinese Medicine) is to recover the natural balance of your body. It can not only enhance recuperative power, immunity and physical and emotional health but also improve overall function and well-being."
@@ -69,13 +68,13 @@ feature_row2:
     url: /treatment/massage-therapy-overview/
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row3:
+feature_row4:
   - image_path: /assets/images/88610874-53BB-422D-B963-03E0408F5404.jpeg
     title: "Acupuncture"
     #    excerpt: "Our integrated approach incorporates both research-based and time-tested treatments combining Chinese medicine, acupuncture, acupoint-injection and functional medicine. Rather than taking a traditional disease-centred focus, we address the underlying causes of disease using a patient-centred approach addressing the whole person, not just an isolated set of symptoms."
     excerpt: "Traditional Chinese Medicine (TCM) practices draw from holistic Eastern healing techniques. Acupuncture is the most common technique used. It improves health and stimulates the body’s natural healing mechanisms by stimulating acupressure points/meridians using a fine, sterile needle. Pressure, heat, or electrical stimulation may further enhance the effects. You do not need a physician’s referral to attend acupuncture sessions. ICBC allows Acupuncturists in BC to directly bill for treatments provided to patients who have sustained injuries in a motor vehicle accident. Some extended health plans may cover the cost of the treatment as well. Please review your private insurance plan for more details."
 
-feature_row4:
+feature_row5:
   - image_path: /assets/images/photo-1576671081803-5dcb9836dc61.jpeg
     title: "Regenerative Acupuncture Injection Therapy"
     excerpt: "Promote the natural self-healing process by stimulating specific anatomic sites with injection."

@@ -24,6 +24,7 @@ If you are not available to come during the regular hours, please contact us. Wi
 | **Subsequent Visit & 3-Day Herbal Medicine**   |  50m   | $140  |
 | **Subsequent Visit & 7-Day Herbal Medicine**   |  50m   | $180  |
 
+<!--
 ### Registered Massage Therapy (RMT)
 
 | RMT Service                                | Length   | Price     |
@@ -32,6 +33,7 @@ If you are not available to come during the regular hours, please contact us. Wi
 | **Subsequent Visit 60**                    | 60m      | $130 +GST |
 | **Subsequent Visit 45**                    | 45m      | $120 +GST |
 | **Subsequent Visit 30**                    | 30m      | $85  +GST |
+-->
 
 ### ICBC MVA(Motor Vihecle Accidient) Treatment ###
 

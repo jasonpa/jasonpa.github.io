@@ -17,14 +17,3 @@ Jiman:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/ryu.clinic"
 
-
-Oliviah:
-  name   : "Oliviah Kim"
-  avatar : "/assets/images/oliviah.jpg"
-  bio    : "R.Ac., RMT."
-  location: "Burnaby, BC"
-  links:
-    #- label: "Website"
-    #  icon: "fas fa-fw fa-link"
-    #  url: "https://ryu.clinic"
-
