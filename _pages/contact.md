@@ -9,12 +9,12 @@ sidebar:
 ---
 # We are moved
 
-  - Our new address is **3056 Glen Dr unit # 500, Coquitlam** from Jun.17th 2025.
+  - Our new address is Momentum Therapeutics Coquitlam **3056 Glen Dr unit # 500, Coquitlam** from Jun.17th 2025.
   
 # How to get Ryu Clinic
 
 |--|--|
-|Address| [3056 Glen Dr unit # 500, Coquitlam, BC V3B 0V1]()|
+|Address| [3056 Glen Dr unit # 500, Coquitlam, BC V3B 0V1](https://maps.app.goo.gl/MLsq6bt2DPxdcVpT8)|
 |Phone & Fax|604.469.2000|
 |Email|info@ryu.clinic|
 
