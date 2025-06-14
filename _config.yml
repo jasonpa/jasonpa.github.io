@@ -16,12 +16,12 @@
 locale: "en-US"
 title: Ryu Clinic
 title_separator: "|"
-subtitle: Acupuncture, RMT & Herbal Medicine
+subtitle: Acupuncture & Herbal Medicine
 name: "Ryu Clinic Inc."
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Acupuncture, RMT & Herbal Medicine.
-  ICBC, Acupuncture, RMT, TEM Herbal Medicine, Massage Therapy, Cupping, Pain Clinic, Rehabilitation, Acupoint Injection, Chronic Pain, Port Moody, Coquitlam, Tri-Cities, 한의원, 한약, 비염, 호흡기, 수면장애, 소화불량, 통증클리닉, 침치료, 포트무디
+  Acupuncture & Herbal Medicine.
+  ICBC, Acupuncture, TEM Herbal Medicine, Massage Therapy, Cupping, Pain Clinic, Rehabilitation, Acupoint Injection, Chronic Pain, Port Moody, Coquitlam, Tri-Cities, 한의원, 한약, 비염, 호흡기, 수면장애, 소화불량, 통증클리닉, 침치료, 포트무디
 twitter_username: ryuclinic
 facebook_username: ryu.clinic
 github_username: jasonpa
@@ -75,7 +75,7 @@ author:
   name   : "Jiman Ryu by Ryu Clinic"
   avatar : "/assets/images/bio-photo-rc.jpg"
   bio    : ""
-  location: "Port Moody, BC"
+  location: "Coquitlam, BC"
   links:
     #- label: "Website"
     #  icon: "fas fa-fw fa-link"
