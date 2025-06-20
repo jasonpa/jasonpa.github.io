@@ -12,7 +12,10 @@ header:
   actions:
     - label: "Online Booking"
       url: "https://momentum.janeapp.com/locations/glen-drive-momentum-therapeutics-health-care-clinic/book#/staff_member/139"
-excerpt: "Ryu Clinic offers a holistic health approach with acupuncture, massage therapy and herbal medicine services. We are conveniently located in downtown Port Moody. The conditions we treat include pain management, TCM psychology, pediatrics, gynecology, and immune-related health issues."
+excerpt: "Ryu Clinic is known for treating a broad spectrum of conditions, from common colds to complex issues in TCM psychology, pediatrics, gynecology, and pain management. Our therapies aim to restore the body’s natural balance by stimulating acupuncture points. This process enhances self-healing, boosts immunity, and supports both physical and emotional well-being, improving overall health and quality of life."
+
+# 류한의원은 감기와 같은 가벼운 증상부터 복잡하고 만성적인 질환까지 폭넓은 분야의 환자들을 치료해온 한의학 전문 클리닉입니다. 심리치료, 소아과, 부인과, 통증 관리 등 다양한 분야에서 전통 한방 치료를 제공합니다.
+# 한방 치료의 목적은 몸의 자연스러운 균형을 회복하는 데 있으며, 이는 경혈 자극을 통해 이루어집니다. 이러한 치료는 자가 회복력과 면역력 향상은 물론, 신체적·정서적 건강을 증진시켜 전반적인 기능 개선과 삶의 질 향상에 기여합니다.
 
 intro:
   - title: "We Look Your Body Not Symptoms Only"
