@@ -21,8 +21,15 @@ If you are not available to come during the regular hours, please contact us. Wi
 |------------------------------------------------|:------:|-------|
 | **Initial Visit - Evaluation & Treatment**[^1] |  60m   | $140  |
 | **Subsequent Visit**[^2]                       |  40m   | $110  |
-| **Subsequent Visit & 3-Day Herbal Medicine**   |  50m   | $140  |
-| **Subsequent Visit & 7-Day Herbal Medicine**   |  50m   | $180  |
+<!-- | **Subsequent Visit & 3-Day Herbal Medicine**   |  50m   | $140  |
+| **Subsequent Visit & 7-Day Herbal Medicine**   |  50m   | $180  | -->
+
+### Natural Herbal Medicine
+
+| Service           | Length | Price                  |
+|-------------------|:------:|------------------------|
+| **Initial Visit** |  45m   | 60$ + Medicine Fee[^5] |
+| **Follow-up**     |  30m   | Medicine Fee[^5]       |
 
 <!--
 ### Registered Massage Therapy (RMT)
@@ -51,18 +58,11 @@ This treatment is specially designed for MVA(Motor Vehicle Accident) injuries co
 | **Initial RMT Massage Therapy**    | 45m | Covered by ICBC, No User Fee |
 | **Subsequent RMT Massage Therapy** | 45m | Covered by ICBC, $27.3 User Fee |
 
-### TEM(Traditional Esatern Medicine) Natural Herbal Medicine
-
-| Service           | Length | Price                  |
-|-------------------|:------:|------------------------|
-| **Initial Visit** |  45m   | 50$ + Medicine Fee[^5] |
-| **Follow-up**     |  30m   | Medicine Fee[^5]       |
-
-### Consultation
+<!-- ### Consultation
 
 | Service              | Length | Price   |
 |----------------------|:------:|---------|
-| **Consultaion Only** |  30m   | $50[^6] |
+| **Consultaion Only** |  30m   | $50[^6] | -->
 
 ## Payment Method
 Visa, Master, Debit, Cash & Cheque

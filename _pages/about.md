@@ -20,6 +20,7 @@ toc: false
 |**2015** JimanTreatsWell Acupuncture starts services in New Westminster.
 |**2017** JimanTreatsWell is ranked top acupuncture in New Westminster by Tri-best. It is ranked one of the top 3 acupuncture in Coquitlam.    
 |**2018** The founder establishes Ryu Clinic Inc. in Port Moody. 
+|**2025** The unification of our two clinics under one practice at Momentum Therapeutics Coquitlam.
 
 # Meet the Business Owner
 [Jiman Ryu. Founder of Ryu Clinic Inc.](/about/teams)
