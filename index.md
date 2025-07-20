@@ -1,5 +1,5 @@
 ---
-title: "Acupuncture, &amp; Herbal Medicine"
+title: "Ryu Clinic &amp; Momentum Therapeutics"
 layout: splash
 #classes:
 #  - landing
