@@ -7,10 +7,8 @@ main:
   #   url: /categories/
   # - title: "Treatment"
   #   url: /treatment/
-  - title: "Contact"
+  - title: "Contact & Locations"
     url: /contact/
-  - title: "Online Booking"
-    url: "https://momentum.janeapp.com/locations/glen-drive-momentum-therapeutics-health-care-clinic/book#/staff_member/139"
 
 about:
   - title: About Our Clinic
