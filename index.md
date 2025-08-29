@@ -26,7 +26,7 @@ location:
   - image_path: /assets/images/regen.png
     title: "Regen Recovery Vancouver"
     excerpt: "Regen is a one-stop-shop for physical recovery. Regen is for anyone ready to take recovery seriously, whether you're recovering from injury, training hard, or simply optimizing your health."
-    url: "https://regenrecovery.janeapp.com"
+    url: "https://regen-recovery.janeapp.com"
     btn_label: "Online Booking"
     btn_class: "btn--primary"
 
