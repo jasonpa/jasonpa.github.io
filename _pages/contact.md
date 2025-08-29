@@ -25,4 +25,4 @@ You can receive treatment in both **Coquitlam and Vancouver**
 |Address| [1433 Cedar Cottage Mews, Vancouver, BC V5N 2R5](https://maps.app.goo.gl/8YmQraJuuk38oXoW9)|
 |Phone| **604.336.8141** |
 |Parking|Free parkade parking|
-|Online Booking|[Regen Recovery - Vancouver](https://regenrecovery.janeapp.com){: .btn .btn--info .btn--large}|
+|Online Booking|[Regen Recovery - Vancouver](https://regen-recovery.janeapp.com/){: .btn .btn--info .btn--large}|
