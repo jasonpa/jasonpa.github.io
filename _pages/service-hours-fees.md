@@ -20,9 +20,7 @@ If you are not available to come during the regular hours, please contact us. Wi
 | Acupuncture Service                            | Length | Price |
 |------------------------------------------------|:------:|-------|
 | **Initial Visit - Evaluation & Treatment**[^1] |  60m   | $140  |
-| **Subsequent Visit**[^2]                       |  40m   | $110  |
-<!-- | **Subsequent Visit & 3-Day Herbal Medicine**   |  50m   | $140  |
-| **Subsequent Visit & 7-Day Herbal Medicine**   |  50m   | $180  | -->
+| **Subsequent Visit**[^2]                       |  40m   | $120  |
 
 ### Natural Herbal Medicine
 
@@ -55,8 +53,8 @@ This treatment is specially designed for MVA(Motor Vehicle Accident) injuries co
 |:---|:---:|:---|
 | **Initial Evaluation & Treatment** | 50m | Covered by ICBC, No User Fee |
 | **Subsequent Visit**               | 40m | Covered by ICBC, No User Fee |
-| **Initial RMT Massage Therapy**    | 45m | Covered by ICBC, No User Fee |
-| **Subsequent RMT Massage Therapy** | 45m | Covered by ICBC, $27.3 User Fee |
+<!-- | **Initial RMT Massage Therapy**    | 45m | Covered by ICBC, No User Fee |
+| **Subsequent RMT Massage Therapy** | 45m | Covered by ICBC, $27.3 User Fee | -->
 
 <!-- ### Consultation
 
