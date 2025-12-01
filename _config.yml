@@ -104,6 +104,13 @@ footer:
       url: "https://facebook.com/ryu.clinic"
 
 
+# Guide section
+collections:
+  guides:
+    output: true
+    permalink: /guides/:name/
+    sort_by: order   # front matter에서 order 사용 가능 (선택사항)
+
 defaults:
   # _posts
   - scope:
@@ -126,6 +133,18 @@ defaults:
       layout: single
       author_profile: true
       toc: true
+  # _guides
+  - scope:
+      path: "_guides"
+      type: guides
+    values:
+      layout: guide
+      lang: "en"
+      korean_summary: true
+      meta_title: ""
+      meta_description: ""
+      order: 100
+
 
 category_archive:
   type: liquid

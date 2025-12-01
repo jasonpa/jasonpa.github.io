@@ -1,0 +1,13 @@
+<nav class="guides-nav">
+    <h2>Guides</h2>
+    <ul>
+        {% assign guides = site.guides | sort: "order" %}
+        {% for guide in guides %}
+        <li class="{% if guide.url == page.url %}active{% endif %}">
+            <a href="{{ guide.url | relative_url }}">
+                {{ guide.nav_title | default: guide.title }}
+            </a>
+        </li>
+        {% endfor %}
+    </ul>
+</nav>
