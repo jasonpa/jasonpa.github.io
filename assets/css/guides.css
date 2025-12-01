@@ -1,0 +1,124 @@
+/* Doks-inspired Guide Cards Styling */
+
+.guides-hero {
+  background: #f7f9fb;
+  padding: 60px 0 40px 0;
+  margin: -20px -20px 40px -20px;
+  text-align: center;
+}
+
+.guides-hero h1 {
+  font-size: 2.5em;
+  margin-bottom: 0.5em;
+  color: #2c3e50;
+  font-weight: 600;
+}
+
+.guides-hero p {
+  font-size: 1.1em;
+  color: #5a6c7d;
+  max-width: 600px;
+  margin: 0 auto;
+  line-height: 1.6;
+}
+
+.guides-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 30px;
+  margin-bottom: 60px;
+}
+
+@media (max-width: 992px) {
+  .guides-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 576px) {
+  .guides-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.guide-card {
+  background: #ffffff;
+  border: 1px solid #e8ecef;
+  border-radius: 8px;
+  padding: 30px;
+  transition: all 0.3s ease;
+  display: flex;
+  flex-direction: column;
+}
+
+.guide-card:hover {
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+  transform: translateY(-2px);
+  border-color: #d1d9e0;
+}
+
+.guide-card h3 {
+  font-size: 1.4em;
+  margin-top: 0;
+  margin-bottom: 0.75em;
+  color: #2c3e50;
+  font-weight: 600;
+}
+
+.guide-card p {
+  color: #5a6c7d;
+  font-size: 0.95em;
+  line-height: 1.6;
+  margin-bottom: 1.5em;
+  flex-grow: 1;
+}
+
+.guide-card ul {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 1.5em 0;
+}
+
+.guide-card ul li {
+  margin-bottom: 0.5em;
+  padding-left: 1.2em;
+  position: relative;
+}
+
+.guide-card ul li:before {
+  content: "→";
+  position: absolute;
+  left: 0;
+  color: #5a6c7d;
+}
+
+.guide-card ul li a {
+  color: #4a5568;
+  text-decoration: none;
+  font-size: 0.9em;
+  transition: color 0.2s ease;
+}
+
+.guide-card ul li a:hover {
+  color: #2563eb;
+}
+
+.guide-card-link {
+  color: #2563eb;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 0.9em;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  margin-top: auto;
+  transition: gap 0.2s ease;
+}
+
+.guide-card-link:hover {
+  gap: 10px;
+}
+
+.guide-card-link:after {
+  content: "→";
+}
