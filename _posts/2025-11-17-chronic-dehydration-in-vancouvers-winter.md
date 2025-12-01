@@ -2,7 +2,7 @@
 header:
   teaser: assets/images/.jpg
 cover: assets/images/.jpg
-title: Chronic Dehydration in Vancouver’s Winter: A Simple Oriental Medicine Tip
+title: "Chronic Dehydration in Vancouver’s Winter: A Simple Oriental Medicine Tip"
 date: 2025-11-17 00:00:00
 categories:
   - News
