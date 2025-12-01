@@ -7,6 +7,23 @@ main:
   #   url: /categories/
   # - title: "Treatment"
   #   url: /treatment/
+  - title: "Guides"
+    url: /guides/
+    children:
+      - title: "ICBC & Car Accident"
+        url: /guides/icbc/
+      - title: "Extended Health Benefits"
+        url: /guides/benefits/
+      - title: "Office & Workers"
+        url: /guides/office/
+      - title: "Sports & Active Lifestyle"
+        url: /guides/sports/
+      - title: "Symptoms & Conditions"
+        url: /guides/symptoms/
+      - title: "Philosophy & First Visit"
+        url: /guides/philosophy/
+      - title: "Locations & Access"
+        url: /guides/locations/
   - title: "Contact & Locations"
     url: /contact/
 
