@@ -110,10 +110,157 @@ feature_row2:
     
 ---
 
-{% include feature_row id="location"%}
-{% include feature_row id="intro" type=""%}{: .notice--success}
-{% include feature_row %}
-{% include feature_row id="feature_row2"%}
+<!-- Guides Section -->
+<div style="background: #f7f9fb; padding: 60px 20px; margin: 0 -20px 60px -20px; text-align: center;">
+  <h2 style="font-size: 2.2em; margin-bottom: 0.5em; color: #2c3e50; font-weight: 600;">Your Guide to Better Health</h2>
+  <p style="font-size: 1.2em; color: #5a6c7d; margin-bottom: 1.5em; max-width: 800px; margin-left: auto; margin-right: auto; line-height: 1.6;">
+    Practical guides for ICBC care, extended health benefits, office pain relief, sports recovery, and understanding your symptoms. Find the answers you need to start your journey to wellness.
+  </p>
+  
+  <div style="max-width: 1200px; margin: 2em auto;">
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin-bottom: 2em;">
+      <div style="background: white; padding: 25px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
+        <div style="font-size: 2em; margin-bottom: 0.5em;">🚗</div>
+        <h3 style="font-size: 1.1em; margin-bottom: 0.5em; color: #2c3e50;">ICBC & Car Accidents</h3>
+        <p style="font-size: 0.9em; color: #666; margin: 0;">Coverage, treatment options, and recovery support</p>
+      </div>
+      <div style="background: white; padding: 25px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
+        <div style="font-size: 2em; margin-bottom: 0.5em;">💼</div>
+        <h3 style="font-size: 1.1em; margin-bottom: 0.5em; color: #2c3e50;">Office & Work Pain</h3>
+        <p style="font-size: 0.9em; color: #666; margin: 0;">Neck, shoulder, and desk-related pain relief</p>
+      </div>
+      <div style="background: white; padding: 25px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
+        <div style="font-size: 2em; margin-bottom: 0.5em;">🏃</div>
+        <h3 style="font-size: 1.1em; margin-bottom: 0.5em; color: #2c3e50;">Sports & Active Life</h3>
+        <p style="font-size: 0.9em; color: #666; margin: 0;">Stay active with less pain and faster recovery</p>
+      </div>
+      <div style="background: white; padding: 25px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
+        <div style="font-size: 2em; margin-bottom: 0.5em;">🎯</div>
+        <h3 style="font-size: 1.1em; margin-bottom: 0.5em; color: #2c3e50;">Symptoms & Conditions</h3>
+        <p style="font-size: 0.9em; color: #666; margin: 0;">Headaches, digestion, sleep, and more</p>
+      </div>
+    </div>
+    
+    <a href="/guides/" 
+       style="display: inline-block; background: #52c41a; color: white; padding: 15px 50px; text-decoration: none; border-radius: 8px; font-size: 1.2em; font-weight: 500; box-shadow: 0 4px 12px rgba(82, 196, 26, 0.3); transition: all 0.3s ease;">
+      Explore All Guides →
+    </a>
+  </div>
+</div>
+
+<!-- {% include feature_row id="location"%} -->
+
+<!-- Your Health, Whole-istically Section -->
+<div style="background: white; padding: 80px 20px; margin: 60px -20px 0 -20px;">
+  <div style="max-width: 1200px; margin: 0 auto; text-align: center;">
+    <h2 style="font-size: 2.5em; margin-bottom: 0.3em; color: #2c3e50; font-weight: 600;">Your Health, Whole-istically</h2>
+    <p style="font-size: 1.2em; color: #5a6c7d; max-width: 900px; margin: 0 auto 3em auto; line-height: 1.8;">
+      Is your current treatment not helping? Try a holistic approach. We restore your body's balance and improve your overall health with safe and effective treatments. We'll find the most effective plan for you, addressing the structural, functional, and psychological roots of your condition.
+    </p>
+
+    <!-- Three Core Approaches -->
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 40px; margin-bottom: 4em;">
+      <!-- Structural -->
+      <div style="text-align: center; padding: 30px;">
+        <div style="width: 120px; height: 120px; margin: 0 auto 1.5em; border-radius: 50%; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); display: flex; align-items: center; justify-content: center; box-shadow: 0 8px 20px rgba(102, 126, 234, 0.3);">
+          <span style="font-size: 3em; color: white;">🦴</span>
+        </div>
+        <h3 style="font-size: 1.5em; margin-bottom: 0.7em; color: #2c3e50; font-weight: 600;">Structural</h3>
+        <p style="font-size: 1em; color: #666; line-height: 1.7;">
+          An evaluation is necessary to determine if the pain is the result of a musculoskeletal injury or part of a systemic problem.
+        </p>
+      </div>
+
+      <!-- Functional -->
+      <div style="text-align: center; padding: 30px;">
+        <div style="width: 120px; height: 120px; margin: 0 auto 1.5em; border-radius: 50%; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); display: flex; align-items: center; justify-content: center; box-shadow: 0 8px 20px rgba(240, 147, 251, 0.3);">
+          <span style="font-size: 3em; color: white;">⚡</span>
+        </div>
+        <h3 style="font-size: 1.5em; margin-bottom: 0.7em; color: #2c3e50; font-weight: 600;">Functional</h3>
+        <p style="font-size: 1em; color: #666; line-height: 1.7;">
+          The functional disease (e.g. IBS) does not only cause physical suffering but also has a great impact on people's quality of life.
+        </p>
+      </div>
+
+      <!-- Psychological -->
+      <div style="text-align: center; padding: 30px;">
+        <div style="width: 120px; height: 120px; margin: 0 auto 1.5em; border-radius: 50%; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); display: flex; align-items: center; justify-content: center; box-shadow: 0 8px 20px rgba(79, 172, 254, 0.3);">
+          <span style="font-size: 3em; color: white;">🧠</span>
+        </div>
+        <h3 style="font-size: 1.5em; margin-bottom: 0.7em; color: #2c3e50; font-weight: 600;">Psychological</h3>
+        <p style="font-size: 1em; color: #666; line-height: 1.7;">
+          Stress, anxiety can also lead to insomnia, and poor health is just one side effect from lack of sleep.
+        </p>
+      </div>
+    </div>
+
+    <!-- Additional Values -->
+    <div style="background: #f7f9fb; padding: 40px; border-radius: 12px; margin-bottom: 2em;">
+      <h3 style="font-size: 1.6em; margin-bottom: 1em; color: #2c3e50; font-weight: 600;">Treatable Conditions</h3>
+      <p style="font-size: 1.05em; color: #5a6c7d; line-height: 1.8; max-width: 900px; margin: 0 auto;">
+        With the integration of Ryu Clinic, we now offer an even broader range of treatments. Our expertise extends beyond common ailments to include specialized care in TCM psychology, pediatrics, gynecology, and pain management. We believe in treating the body as a whole, addressing the root causes of illness rather than just the symptoms, to help you achieve lasting health.
+      </p>
+    </div>
+
+    <div style="background: #e8f5e9; padding: 40px; border-radius: 12px;">
+      <h3 style="font-size: 1.6em; margin-bottom: 1em; color: #2c3e50; font-weight: 600;">Our Goal</h3>
+      <p style="font-size: 1.05em; color: #5a6c7d; line-height: 1.8; max-width: 900px; margin: 0 auto;">
+        With our acupuncture-based therapies, you can experience a new level of well-being. We focus on restoring your body's natural balance and boosting its ability to heal itself, which in turn strengthens your immunity and supports both your physical and emotional health for a better quality of life.
+      </p>
+    </div>
+  </div>
+</div>
+
+
+<!-- Our Treatments Section -->
+<div style="background: #f7f9fb; padding: 80px 20px; margin: 60px -20px 0 -20px;">
+  <div style="max-width: 1200px; margin: 0 auto;">
+    <h2 style="font-size: 2.5em; margin-bottom: 0.5em; color: #2c3e50; font-weight: 600; text-align: center;">Our Treatments</h2>
+    <p style="font-size: 1.2em; color: #5a6c7d; margin-bottom: 3em; text-align: center; max-width: 800px; margin-left: auto; margin-right: auto;">
+      Drawing from holistic Eastern healing techniques, we offer personalized treatments to enhance your health and well-being.
+    </p>
+
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(450px, 1fr)); gap: 40px;">
+      
+      <!-- Acupuncture Card -->
+      <div style="background: white; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 20px rgba(0,0,0,0.08); transition: transform 0.3s ease, box-shadow 0.3s ease;">
+        <div style="height: 250px; overflow: hidden;">
+          <img src="/assets/images/needle.jpg" alt="Acupuncture" style="width: 100%; height: 100%; object-fit: cover;">
+        </div>
+        <div style="padding: 35px;">
+          <h3 style="font-size: 1.8em; margin-bottom: 0.7em; color: #2c3e50; font-weight: 600;">Acupuncture</h3>
+          <p style="font-size: 1em; color: #666; line-height: 1.8; margin-bottom: 1.5em;">
+            Traditional Chinese Medicine (TCM) practices draw from holistic Eastern healing techniques. Acupuncture is the most common technique used. It improves health and stimulates the body's natural healing mechanisms by stimulating acupressure points/meridians using a fine, sterile needle.
+          </p>
+          <div style="background: #e8f5e9; padding: 20px; border-radius: 8px; border-left: 4px solid #52c41a;">
+            <p style="font-size: 0.95em; color: #5a6c7d; margin: 0; line-height: 1.6;">
+              <strong>Coverage:</strong> ICBC allows direct billing for motor vehicle accident treatments. Many extended health plans also cover acupuncture. No physician referral required.
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Herbal Medicine Card -->
+      <div style="background: white; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 20px rgba(0,0,0,0.08); transition: transform 0.3s ease, box-shadow 0.3s ease;">
+        <div style="height: 250px; overflow: hidden;">
+          <img src="/assets/images/rcaNUh3pQ9GD8w7Iy8qE__DSC0940.jpg" alt="Herbal Medicine" style="width: 100%; height: 100%; object-fit: cover;">
+        </div>
+        <div style="padding: 35px;">
+          <h3 style="font-size: 1.8em; margin-bottom: 0.7em; color: #2c3e50; font-weight: 600;">Herbal Medicine</h3>
+          <p style="font-size: 1em; color: #666; line-height: 1.8; margin-bottom: 1.5em;">
+            TEM (Traditional Eastern Medicine) is an experienced and wholistic technique under the umbrella of TCM practices. It involves personalized herbal medicine based on accumulated health data for thousands of years, enhancing recuperative power, immunity, and overall well-being.
+          </p>
+          <div style="background: #f0f5ff; padding: 20px; border-radius: 8px; border-left: 4px solid #4285f4;">
+            <p style="font-size: 0.95em; color: #5a6c7d; margin: 0; line-height: 1.6;">
+              <strong>Practitioner:</strong> <a href="/about/teams" style="color: #4285f4; text-decoration: none;">Jiman Ryu (R.Ac. R.TCM.P.)</a> is a registered TCM practitioner with <a href="https://www.ctcma.bc.ca/" target="_blank" style="color: #4285f4; text-decoration: none;">CTCMA</a>, trained to treat conditions from simple symptoms to complex health issues.
+            </p>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
 
 <!-- Google Reviews Section -->
 <div style="background: #f7f9fb; padding: 60px 20px; margin: 60px -20px 0 -20px; text-align: center;">
