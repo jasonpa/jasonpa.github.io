@@ -27,7 +27,7 @@ toc: false
         <li><a href="{{ guide.url | relative_url }}">{{ guide.nav_title | default: guide.title }}</a></li>
       {% endfor %}
     </ul>
-    <a href="#guides-icbc" class="guide-card-link">View guides</a>
+    <a href="{{ icbc_guides.first.url | relative_url }}" class="guide-card-link">View guides →</a>
   </div>
 
   <!-- Benefits Guides Order 20-29 -->
@@ -40,7 +40,7 @@ toc: false
         <li><a href="{{ guide.url | relative_url }}">{{ guide.nav_title | default: guide.title }}</a></li>
       {% endfor %}
     </ul>
-    <a href="#guides-benefits" class="guide-card-link">View guides</a>
+    <a href="{{ benefit_guides.first.url | relative_url }}" class="guide-card-link">View guides →</a>
   </div>
 
   <!-- Office / Workers Guides Order 30-39 -->
@@ -53,7 +53,7 @@ toc: false
         <li><a href="{{ guide.url | relative_url }}">{{ guide.nav_title | default: guide.title }}</a></li>
       {% endfor %}
     </ul>
-    <a href="#guides-office" class="guide-card-link">View guides</a>
+    <a href="{{ office_guides.first.url | relative_url }}" class="guide-card-link">View guides →</a>
   </div>
 
   <!-- Sports Guides Order 40-49 -->
@@ -66,7 +66,7 @@ toc: false
         <li><a href="{{ guide.url | relative_url }}">{{ guide.nav_title | default: guide.title }}</a></li>
       {% endfor %}
     </ul>
-    <a href="#guides-sports" class="guide-card-link">View guides</a>
+    <a href="{{ sports_guides.first.url | relative_url }}" class="guide-card-link">View guides →</a>
   </div>
 
   <!-- Symptoms Guides Order 50-69 -->
@@ -79,7 +79,7 @@ toc: false
         <li><a href="{{ guide.url | relative_url }}">{{ guide.nav_title | default: guide.title }}</a></li>
       {% endfor %}
     </ul>
-    <a href="#guides-symptoms" class="guide-card-link">View guides</a>
+    <a href="{{ symptom_guides.first.url | relative_url }}" class="guide-card-link">View guides →</a>
   </div>
 
   <!-- Philosophy & First Visit Order 70-79 -->
@@ -92,7 +92,7 @@ toc: false
         <li><a href="{{ guide.url | relative_url }}">{{ guide.nav_title | default: guide.title }}</a></li>
       {% endfor %}
     </ul>
-    <a href="#guides-philosophy" class="guide-card-link">View guides</a>
+    <a href="{{ philosophy_guides.first.url | relative_url }}" class="guide-card-link">View guides →</a>
   </div>
 
   <!-- Locations & Access Order 80-89 -->
@@ -105,7 +105,7 @@ toc: false
         <li><a href="{{ guide.url | relative_url }}">{{ guide.nav_title | default: guide.title }}</a></li>
       {% endfor %}
     </ul>
-    <a href="#guides-locations" class="guide-card-link">View guides</a>
+    <a href="{{ location_guides.first.url | relative_url }}" class="guide-card-link">View guides →</a>
   </div>
 
 </div>
