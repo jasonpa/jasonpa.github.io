@@ -1,6 +1,6 @@
 ---
 title: "How to Use Extended Health Benefits for Acupuncture"
-nav_title: "Extended Benefits – How to Use"
+nav_title: "Benefits - Extended Benefits How to Use"
 short_description: "A clear overview of how to use your extended health benefits for acupuncture care."
 permalink: /guides/extended-health-benefits-acupuncture/
 meta_title: "Extended Health Benefits for Acupuncture | Coquitlam & Vancouver | Ryu Clinic"

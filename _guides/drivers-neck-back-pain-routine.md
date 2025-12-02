@@ -1,6 +1,6 @@
 ---
 title: "Neck and Back Care for Professional Drivers and Commuters"
-nav_title: "Drivers – Neck & Back"
+nav_title: "ICBC - Drivers Neck & Back"
 short_description: "For people who drive or commute a lot and struggle with neck or back tension."
 permalink: /guides/drivers-neck-back-pain-routine/
 meta_title: "Neck & Back Care for Drivers | Coquitlam & Vancouver Acupuncture | Ryu Clinic"
