@@ -13,4 +13,8 @@ korean_summary_body: >
   <p>셀프 케어만으로 부족할 때 Coquitlam & Vancouver에서 어떻게 평가와 치료를 시작하면 좋을지 한국어로 안내합니다.</p>
 ---
 
-1. How long drives affect your spine, 2. A 10‑minute break routine you can actually do, 3. When self‑care is no longer enough, 4. Acupuncture for drivers and commuters, 5. Where to book in Coquitlam & Vancouver	
+## How long drives affect your spine
+## A 10‑minute break routine you can actually do
+## When self‑care is no longer enough
+## Acupuncture for drivers and commuters
+## Where to book in Coquitlam & Vancouver	

@@ -13,4 +13,8 @@ korean_summary_body: >
   <p>Coquitlam Momentum · Vancouver Regen 환경에서 다학제 치료를 조율하는 방법도 한국어로 정리합니다.</p>
 ---
 
-1. Why a team‑based approach works, 2. The role of each therapy, 3. Where acupuncture fits best, 4. Building a weekly treatment schedule, 5. Coordinating care at Ryu Clinic	
+## Why a team‑based approach works
+## The role of each therapy
+## Where acupuncture fits best
+## Building a weekly treatment schedule
+## Coordinating care at Ryu Clinic	

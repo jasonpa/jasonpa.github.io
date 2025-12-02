@@ -13,4 +13,8 @@ korean_summary_body: >
   <p>관절을 보호하면서도 계속 움직일 수 있도록 침 치료·근력·가동성 전략을 한국어로 정리합니다.</p>
 ---
 
-1. Common joint pain in your 40s–60s, 2. Why staying active matters, 3. Acupuncture plus strength and mobility work, 4. Pacing activity to protect joints, 5. Booking in Coquitlam & Vancouver	
+## Common joint pain in your 40s–60s
+## Why staying active matters
+## Acupuncture plus strength and mobility work
+## Pacing activity to protect joints
+## Booking in Coquitlam & Vancouver	

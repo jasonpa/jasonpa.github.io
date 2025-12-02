@@ -13,4 +13,8 @@ korean_summary_body: >
   <p>extended benefits를 활용해 월 1회 또는 계절별 체크업을 계획하는 방법을 한국어로 정리합니다.</p>
 ---
 
-1. Why some pain lingers after coverage ends, 2. Crisis care vs maintenance care, 3. Monthly or seasonal acupuncture check‑ins, 4. Using extended benefits after ICBC, 5. Planning long‑term with Ryu Clinic	
+## Why some pain lingers after coverage ends
+## Crisis care vs maintenance care
+## Monthly or seasonal acupuncture check‑ins
+## Using extended benefits after ICBC
+## Planning long‑term with Ryu Clinic	

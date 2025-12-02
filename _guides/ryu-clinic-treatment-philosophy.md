@@ -13,4 +13,8 @@ korean_summary_body: >
   <p>Structural·Functional·Psychological 레이어를 함께 보는 평가·치료 흐름을 한국어로 정리합니다.</p>
 ---
 
-1. Looking beyond pain scores, 2. Structural, functional and emotional layers, 3. How acupuncture fits into a bigger picture, 4. Working with Momentum and Regen teams, 5. What to expect over time	
+## Looking beyond pain scores
+## Structural, functional and emotional layers
+## How acupuncture fits into a bigger picture
+## Working with Momentum and Regen teams
+## What to expect over time	

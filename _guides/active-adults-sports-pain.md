@@ -13,4 +13,8 @@ korean_summary_body: >
   <p>대회 일정과 연계해 Coquitlam Momentum · Vancouver Regen을 어떻게 활용할지 한국어로 정리합니다.</p>
 ---
 
-1. Common overuse injuries in runners and lifters, 2. When to push and when to rest, 3. How acupuncture fits into training blocks, 4. Using recovery tools at Regen Recovery, 5. Booking with race dates in mind	
+## Common overuse injuries in runners and lifters
+## When to push and when to rest
+## How acupuncture fits into training blocks
+## Using recovery tools at Regen Recovery
+## Booking with race dates in mind

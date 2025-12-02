@@ -13,4 +13,8 @@ korean_summary_body: >
   <p>Coquitlam Momentum · Vancouver Regen에서 퇴근 전후 예약을 활용하는 방법도 함께 안내합니다.</p>
 ---
 
-1. Typical desk‑related neck and shoulder symptoms, 2. Why posture, stress and screen time matter, 3. How acupuncture helps office workers, 4. Simple desk stretches plus treatment, 5. How to book near you	
+## Typical desk‑related neck and shoulder symptoms
+## Why posture, stress and screen time matter
+## How acupuncture helps office workers
+## Simple desk stretches plus treatment
+## How to book near you	

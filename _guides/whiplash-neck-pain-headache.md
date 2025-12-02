@@ -13,4 +13,8 @@ korean_summary_body: >
   <p>ICBC 기준에서 어떤 경우에 추가 검사·의료기관 방문이 필요한지도 한국어로 함께 안내합니다.</p>
 ---
 
-1. Signs of whiplash you should not ignore, 2. How neck tension leads to headaches, 3. Acupuncture for whiplash and post‑traumatic headaches, 4. When to get imaging or see your doctor, 5. ICBC support for whiplash care	
+## Signs of whiplash you should not ignore
+## How neck tension leads to headaches
+## Acupuncture for whiplash and post‑traumatic headaches
+## When to get imaging or see your doctor
+## ICBC support for whiplash care	

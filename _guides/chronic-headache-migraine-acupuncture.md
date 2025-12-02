@@ -13,4 +13,8 @@ korean_summary_body: >
   <p>어떤 경우에는 먼저 의사·검사를 받아야 하는지도 한국어로 명확히 안내합니다.</p>
 ---
 
-1. Different types of headaches, 2. Triggers: stress, posture, sleep and digestion, 3. How acupuncture can help headaches and migraines, 4. When to see your doctor or get imaging, 5. Building a realistic care plan	
+## Different types of headaches
+## Triggers: stress, posture, sleep and digestion
+## How acupuncture can help headaches and migraines
+## When to see your doctor or get imaging
+## Building a realistic care plan	

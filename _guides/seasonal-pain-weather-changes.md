@@ -13,4 +13,8 @@ korean_summary_body: >
   <p>계절별 셀프 케어와 침 치료 타이밍을 어떻게 잡으면 좋은지 한국어로 안내합니다.</p>
 ---
 
-1. Why some people hurt more with weather shifts, 2. Typical seasonal flare‑up patterns, 3. Acupuncture and self‑care strategies by season, 4. Planning ahead for your worst months, 5. Booking with the seasons in mind	
+## Why some people hurt more with weather shifts
+## Typical seasonal flare‑up patterns
+## Acupuncture and self‑care strategies by season
+## Planning ahead for your worst months
+## Booking with the seasons in mind	

@@ -13,4 +13,8 @@ korean_summary_body: >
   <p>직장인의 실제 스케줄에 맞춘 Coquitlam & Vancouver 방문 패턴을 한국어로 설명합니다.</p>
 ---
 
-1. Why micro‑breaks matter, 2. A realistic 10‑minute stretch sequence, 3. How acupuncture enhances your routine, 4. Tracking tension over the week, 5. When to book an assessment	
+## Why micro‑breaks matter
+## A realistic 10‑minute stretch sequence
+## How acupuncture enhances your routine
+## Tracking tension over the week
+## When to book an assessment	

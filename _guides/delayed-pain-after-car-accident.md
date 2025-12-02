@@ -13,4 +13,8 @@ korean_summary_body: >
   <p>ICBC 클레임 안에서 뒤늦게 치료를 시작할 때 어떤 점을 정리하면 좋은지도 한국어로 안내합니다.</p>
 ---
 
-1. Why pain can appear days or weeks later, 2. Symptoms that deserve attention, 3. Acupuncture for lingering pain and stiffness, 4. Timing and documentation for ICBC, 5. Starting care even if time has passed	
+## Why pain can appear days or weeks later
+## Symptoms that deserve attention
+## Acupuncture for lingering pain and stiffness
+## Timing and documentation for ICBC
+## Starting care even if time has passed	

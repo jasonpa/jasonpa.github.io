@@ -13,4 +13,8 @@ korean_summary_body: >
   <p>그 안에서 Ryu Clinic이 어떤 강점을 갖고 있는지 한국어로 비교해 설명합니다.</p>
 ---
 
-1. When it’s worth travelling for care, 2. Accessing Coquitlam Momentum and Vancouver Regen, 3. What long‑distance patients value, 4. Making the most of each visit, 5. How to plan your route and bookings	
+## When it’s worth travelling for care
+## Accessing Coquitlam Momentum and Vancouver Regen
+## What long‑distance patients value
+## Making the most of each visit
+## How to plan your route and bookings	

@@ -13,4 +13,8 @@ korean_summary_body: >
   <p>불규칙한 스케줄 속에서 Coquitlam & Vancouver 예약 시간을 어떻게 배치할지 한국어로 설명합니다.</p>
 ---
 
-1. How shift work disrupts sleep and hormones, 2. Common symptoms in night‑shift workers, 3. Acupuncture support for sleep and recovery, 4. Scheduling care around rotating shifts, 5. Booking options in Coquitlam & Vancouver	
+## How shift work disrupts sleep and hormones
+## Common symptoms in night‑shift workers
+## Acupuncture support for sleep and recovery
+## Scheduling care around rotating shifts
+## Booking options in Coquitlam & Vancouver	

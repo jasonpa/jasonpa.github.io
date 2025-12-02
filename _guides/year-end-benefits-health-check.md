@@ -13,4 +13,8 @@ korean_summary_body: >
   <p>Coquitlam & Vancouver Ryu Clinic에서 연말·연초 예약을 어떻게 배치하면 좋은지도 한국어로 설명합니다.</p>
 ---
 
-1. Why benefits often go unused, 2. Smart ways to use the remaining balance, 3. Year‑end check‑ups for pain and stress, 4. Planning ahead for next year, 5. How to book before benefits reset	
+## Why benefits often go unused
+## Smart ways to use the remaining balance
+## Year‑end check‑ups for pain and stress
+## Planning ahead for next year
+## How to book before benefits reset	

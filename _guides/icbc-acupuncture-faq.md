@@ -13,4 +13,8 @@ korean_summary_body: >
   <p>Ryu Clinic에서 어떤 방식으로 ICBC 직접 청구와 예약을 도와드리는지도 한국어로 설명합니다.</p>
 ---
 
-1. Do you need a referral?, 2. How many sessions are pre‑approved?, 3. Can you see multiple clinics at once?, 4. What to bring to your first appointment, 5. How Ryu Clinic handles direct billing	
+## Do you need a referral?
+## How many sessions are pre‑approved?
+## Can you see multiple clinics at once?
+## What to bring to your first appointment
+## How Ryu Clinic handles direct billing	

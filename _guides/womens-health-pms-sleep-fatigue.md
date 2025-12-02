@@ -13,4 +13,8 @@ korean_summary_body: >
   <p>프라이버시와 편안함을 중시하는 진료 환경에서 어떤 이야기를 나눌 수 있는지도 한국어로 안내합니다.</p>
 ---
 
-1. Common cycle‑related symptoms, 2. How stress and sleep interact with hormones, 3. Acupuncture for menstrual pain and fatigue, 4. Creating a safe and comfortable space, 5. Planning care across your cycle	
+## Common cycle‑related symptoms
+## How stress and sleep interact with hormones
+## Acupuncture for menstrual pain and fatigue
+## Creating a safe and comfortable space
+## Planning care across your cycle	

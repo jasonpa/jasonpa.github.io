@@ -13,4 +13,8 @@ korean_summary_body: >
   <p>그 안에서 Ryu Clinic이 어떤 강점을 갖고 있는지 한국어로 비교해 설명합니다.</p>
 ---
 
-1. Location, parking and transit, 2. ICBC and extended benefits support, 3. Treatment style and communication, 4. Multidisciplinary options nearby, 5. Why patients choose Ryu Clinic	
+## Location, parking and transit
+## ICBC and extended benefits support
+## Treatment style and communication
+## Multidisciplinary options nearby
+## Why patients choose Ryu Clinic	

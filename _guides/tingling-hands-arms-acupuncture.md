@@ -13,4 +13,8 @@ korean_summary_body: >
   <p>어떤 경우에는 바로 의사·검사가 필요한지, 어떤 경우에는 침 치료 평가가 도움이 되는지 한국어로 안내합니다.</p>
 ---
 
-1. Common causes of tingling and numbness, 2. When neck or shoulder tension is involved, 3. How acupuncture can help nerve‑related symptoms, 4. When to seek further medical testing, 5. Next steps and booking	
+## Common causes of tingling and numbness
+## When neck or shoulder tension is involved
+## How acupuncture can help nerve‑related symptoms
+## When to seek further medical testing
+## Next steps and booking	

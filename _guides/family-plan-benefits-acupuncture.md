@@ -13,4 +13,8 @@ korean_summary_body: >
   <p>가족 일정과 학교·직장을 고려해 Coquitlam & Vancouver 지점을 어떻게 나눠 사용할지 한국어로 정리합니다.</p>
 ---
 
-1. How family health plans usually work, 2. Parents’ neck, back and joint pain, 3. Teens’ posture and sports injuries, 4. Coordinating care for the whole family, 5. Booking family‑friendly appointment times	
+## How family health plans usually work
+## Parents’ neck, back and joint pain
+## Teens’ posture and sports injuries
+## Coordinating care for the whole family
+## Booking family‑friendly appointment times	
