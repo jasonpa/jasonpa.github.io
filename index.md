@@ -111,8 +111,8 @@ feature_row2:
 ---
 
 <!-- Guides Section -->
-<div style="background: #f7f9fb; padding: 60px 20px; margin: 0 -20px 60px -20px; text-align: center;">
-  <h2 style="font-size: 2.2em; margin-bottom: 0.5em; color: #2c3e50; font-weight: 600;">Your Guide to Better Health</h2>
+<div style="background: #f7f9fb; padding: 80px 20px; margin: 0 -20px 60px -20px; text-align: center;">
+  <h2 style="font-size: 2.5em; margin-bottom: 0.5em; color: #2c3e50; font-weight: 600;">Your Guide to Better Health</h2>
   <p style="font-size: 1.2em; color: #5a6c7d; margin-bottom: 1.5em; max-width: 800px; margin-left: auto; margin-right: auto; line-height: 1.6;">
     Practical guides for ICBC care, extended health benefits, office pain relief, sports recovery, and understanding your symptoms. Find the answers you need to start your journey to wellness.
   </p>
@@ -202,7 +202,7 @@ feature_row2:
       </p>
     </div>
 
-    <div style="background: #e8f5e9; padding: 40px; border-radius: 12px;">
+    <div style="background: #f0f5ff; padding: 40px; border-radius: 12px;">
       <h3 style="font-size: 1.6em; margin-bottom: 1em; color: #2c3e50; font-weight: 600;">Our Goal</h3>
       <p style="font-size: 1.05em; color: #5a6c7d; line-height: 1.8; max-width: 900px; margin: 0 auto;">
         With our acupuncture-based therapies, you can experience a new level of well-being. We focus on restoring your body's natural balance and boosting its ability to heal itself, which in turn strengthens your immunity and supports both your physical and emotional health for a better quality of life.
@@ -263,20 +263,20 @@ feature_row2:
 </div>
 
 <!-- Google Reviews Section -->
-<div style="background: #f7f9fb; padding: 60px 20px; margin: 60px -20px 0 -20px; text-align: center;">
-  <h2 style="font-size: 2em; margin-bottom: 0.5em; color: #2c3e50;">What Our Patients Say</h2>
-  <p style="font-size: 1.1em; color: #5a6c7d; margin-bottom: 2em;">Read reviews from our patients in Coquitlam & Vancouver</p>
+<div style="background: white; padding: 80px 20px; margin: 60px -20px 0 -20px; text-align: center;">
+  <h2 style="font-size: 2.5em; margin-bottom: 0.5em; color: #2c3e50; font-weight: 600;">What Our Patients Say</h2>
+  <p style="font-size: 1.2em; color: #5a6c7d; margin-bottom: 3em; max-width: 800px; margin-left: auto; margin-right: auto;">Read reviews from our patients in Coquitlam & Vancouver</p>
   
   <div style="max-width: 1200px; margin: 0 auto;">
     <a href="https://maps.app.goo.gl/Vo3z9mpHFXA6jZTN7" 
        target="_blank" 
        rel="noopener noreferrer"
-       style="display: inline-block; background: #4285f4; color: white; padding: 15px 40px; text-decoration: none; border-radius: 8px; font-size: 1.1em; font-weight: 500; transition: background 0.3s ease;">
-      View Google Reviews
+       style="display: inline-block; background: #52c41a; color: white; padding: 15px 50px; text-decoration: none; border-radius: 8px; font-size: 1.2em; font-weight: 500; box-shadow: 0 4px 12px rgba(82, 196, 26, 0.3); transition: all 0.3s ease;">
+      View Google Reviews →
     </a>
   </div>
   
-  <p style="margin-top: 2em; font-size: 0.9em; color: #666;">
+  <p style="margin-top: 2em; font-size: 1em; color: #666;">
     ⭐⭐⭐⭐⭐ Rated 5.0 on Google
   </p>
 </div>
