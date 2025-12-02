@@ -1,6 +1,6 @@
 ---
 title: "Office Neck and Shoulder Pain Relief with Acupuncture"
-nav_title: "Office Neck & Shoulder Pain"
+nav_title: "Office - Neck & Shoulder Pain"
 short_description: "For office workers with neck and shoulder tension from long hours at a desk."
 permalink: /guides/office-neck-shoulder-pain/
 meta_title: "Office Neck & Shoulder Pain | Coquitlam & Vancouver Acupuncture | Ryu Clinic"

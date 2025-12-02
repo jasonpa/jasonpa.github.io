@@ -1,6 +1,6 @@
 ---
 title: "Life after ICBC Coverage: Managing Ongoing Pain"
-nav_title: "After ICBC Coverage"
+nav_title: "ICBC - After ICBC Coverage"
 short_description: "For people whose ICBC coverage ended but pain or stiffness remains."
 permalink: /guides/life-after-icbc-coverage/
 meta_title: "Life after ICBC Coverage | Coquitlam & Vancouver Acupuncture | Ryu Clinic"

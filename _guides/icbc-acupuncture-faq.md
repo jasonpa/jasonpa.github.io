@@ -1,6 +1,6 @@
 ---
 title: "ICBC Acupuncture FAQ: Your Most Common Questions Answered"
-nav_title: "ICBC FAQ"
+nav_title: "ICBC - FAQ"
 short_description: "Quick answers to the most common questions about ICBC acupuncture coverage."
 permalink: /guides/icbc-acupuncture-faq/
 meta_title: "ICBC Acupuncture FAQ | Coquitlam & Vancouver | Ryu Clinic"

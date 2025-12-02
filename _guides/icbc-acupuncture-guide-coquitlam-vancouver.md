@@ -1,6 +1,6 @@
 ---
 title: "ICBC Car Accident Acupuncture Guide in Coquitlam & Vancouver"
-nav_title: "ICBC Acupuncture Guide"
+nav_title: "ICBC - Acupuncture Guide"
 short_description: "Start here if you were recently in a car accident and have an ICBC claim."
 permalink: /guides/icbc-acupuncture-guide-coquitlam-vancouver/
 meta_title: "ICBC Car Accident Acupuncture Guide | Coquitlam & Vancouver ICBC Acupuncture | Ryu Clinic"
