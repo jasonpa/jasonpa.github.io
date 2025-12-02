@@ -22,6 +22,29 @@ layout: default
         <meta itemprop="dateModified" content="{{ page.last_modified_at | date_to_xmlschema }}">{% endif %}
 
         <div class="page__inner-wrap">
+            <!-- Breadcrumb Navigation -->
+            <nav class="breadcrumbs" style="margin-bottom: 1em; font-size: 0.9em;">
+                <a href="/guides/">Guide Center</a>
+                {% if page.order %}
+                {% if page.order >= 10 and page.order < 20 %} &gt; <a href="/guides/#guides-icbc">ICBC & Car
+                    Accident</a>
+                    {% elsif page.order >= 20 and page.order < 30 %} &gt; <a href="/guides/#guides-benefits">Extended
+                        Health Benefits</a>
+                        {% elsif page.order >= 30 and page.order < 40 %} &gt; <a href="/guides/#guides-office">Office &
+                            Workers</a>
+                            {% elsif page.order >= 40 and page.order < 50 %} &gt; <a href="/guides/#guides-sports">
+                                Sports & Active Lifestyle</a>
+                                {% elsif page.order >= 50 and page.order < 70 %} &gt; <a
+                                    href="/guides/#guides-symptoms">Symptoms & Conditions</a>
+                                    {% elsif page.order >= 70 and page.order < 80 %} &gt; <a
+                                        href="/guides/#guides-philosophy">Philosophy & First Visit</a>
+                                        {% elsif page.order >= 80 and page.order < 90 %} &gt; <a
+                                            href="/guides/#guides-locations">Locations & Access</a>
+                                            {% endif %}
+                                            {% endif %}
+                                            &gt; <span style="color: #666;">{{ page.nav_title | default: page.title
+                                                }}</span>
+            </nav>
             {% unless page.header.overlay_color or page.header.overlay_image %}
             <header>
                 {% if page.title %}<h1 id="page-title" class="page__title" itemprop="headline">{{ page.title |
