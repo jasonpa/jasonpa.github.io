@@ -13,4 +13,8 @@ korean_summary_body: >
   <p>Regen Recovery의 리커버리 옵션과 함께 훈련·회복 밸런스를 맞추는 방법을 한국어로 설명합니다.</p>
 ---
 
-1. Common running and hiking injuries, 2. How training load affects pain, 3. Acupuncture within a training plan, 4. Using recovery tools at Regen Recovery, 5. Booking around events and races	
+## Common running and hiking injuries
+## How training load affects pain
+## Acupuncture within a training plan
+## Using recovery tools at Regen Recovery
+## Booking around events and races	

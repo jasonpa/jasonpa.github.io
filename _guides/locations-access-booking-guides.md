@@ -13,4 +13,8 @@ korean_summary_body: >
   <p>온라인 예약 링크와 Contact 페이지를 어떻게 활용하면 되는지도 한국어로 친절하게 안내합니다.</p>
 ---
 
-1. Where Ryu Clinic treats patients, 2. Transit and parking options, 3. How to choose your location, 4. Online booking and phone options, 5. What to bring to your appointment	
+## Where Ryu Clinic treats patients
+## Transit and parking options
+## How to choose your location
+## Online booking and phone options
+## What to bring to your appointment	

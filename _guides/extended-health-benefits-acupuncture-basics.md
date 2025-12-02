@@ -13,4 +13,8 @@ korean_summary_body: >
   <p>첫 방문 시 어떤 정보를 가져오면 청구와 예약이 수월한지도 한국어로 안내합니다.</p>
 ---
 
-1. What most plans cover, 2. Visit limits and yearly maximums, 3. Direct billing vs self‑submit, 4. What to bring to your first visit, 5. Questions to ask your insurer or HR	
+## What most plans cover
+## Visit limits and yearly maximums
+## Direct billing vs self‑submit
+## What to bring to your first visit
+## Questions to ask your insurer or HR	

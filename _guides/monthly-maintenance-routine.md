@@ -13,4 +13,8 @@ korean_summary_body: >
   <p>extended benefits를 1년 내내 골고루 배분하는 실전 팁도 한국어로 안내합니다.</p>
 ---
 
-1. Crisis care vs maintenance care, 2. What a monthly reset session can do, 3. Matching frequency to your lifestyle, 4. Using benefits across the year, 5. How to schedule recurring visits	
+## Crisis care vs maintenance care
+## What a monthly reset session can do
+## Matching frequency to your lifestyle
+## Using benefits across the year
+## How to schedule recurring visits	

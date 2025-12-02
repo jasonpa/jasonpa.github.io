@@ -13,4 +13,8 @@ korean_summary_body: >
   <p>ICBC 커버리지로 어떤 식으로 허리 통증을 관리할 수 있는지도 한국어로 간단히 설명합니다.</p>
 ---
 
-1. Common lower back pain patterns after an MVA, 2. Why pain can show up days later, 3. How acupuncture helps your spine recover, 4. ICBC coverage for low back care, 5. Booking acupuncture in Coquitlam & Vancouver	
+## Common lower back pain patterns after an MVA
+## Why pain can show up days later
+## How acupuncture helps your spine recover
+## ICBC coverage for low back care
+## Booking acupuncture in Coquitlam & Vancouver	

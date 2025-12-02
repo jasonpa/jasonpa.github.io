@@ -13,4 +13,8 @@ korean_summary_body: >
   <p>애매할 때는 ‘상담 겸 평가’로 예약해도 괜찮다는 메시지를 한국어로 전합니다.</p>
 ---
 
-1. Early warning signs vs emergencies, 2. When to see your doctor first, 3. When acupuncture can be a first step, 4. Common worries about booking, 5. How a simple assessment can help	
+## Early warning signs vs emergencies
+## When to see your doctor first
+## When acupuncture can be a first step
+## Common worries about booking
+## How a simple assessment can help	
