@@ -114,3 +114,22 @@ feature_row2:
 {% include feature_row id="intro" type=""%}{: .notice--success}
 {% include feature_row %}
 {% include feature_row id="feature_row2"%}
+
+<!-- Google Reviews Section -->
+<div style="background: #f7f9fb; padding: 60px 20px; margin: 60px -20px 0 -20px; text-align: center;">
+  <h2 style="font-size: 2em; margin-bottom: 0.5em; color: #2c3e50;">What Our Patients Say</h2>
+  <p style="font-size: 1.1em; color: #5a6c7d; margin-bottom: 2em;">Read reviews from our patients in Coquitlam & Vancouver</p>
+  
+  <div style="max-width: 1200px; margin: 0 auto;">
+    <a href="https://maps.app.goo.gl/Vo3z9mpHFXA6jZTN7" 
+       target="_blank" 
+       rel="noopener noreferrer"
+       style="display: inline-block; background: #4285f4; color: white; padding: 15px 40px; text-decoration: none; border-radius: 8px; font-size: 1.1em; font-weight: 500; transition: background 0.3s ease;">
+      View Google Reviews
+    </a>
+  </div>
+  
+  <p style="margin-top: 2em; font-size: 0.9em; color: #666;">
+    ⭐⭐⭐⭐⭐ Rated 5.0 on Google
+  </p>
+</div>
