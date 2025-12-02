@@ -1,13 +1,99 @@
-<nav class="guides-nav">
-    <h2>Guides</h2>
-    <ul>
-        {% assign guides = site.guides | sort: "order" %}
-        {% for guide in guides %}
-        <li class="{% if guide.url == page.url %}active{% endif %}">
-            <a href="{{ guide.url | relative_url }}">
-                {{ guide.nav_title | default: guide.title }}
-            </a>
+<nav class="nav__list">
+    <h3 class="nav__title" style="padding-left: 0;">Guide Center</h3>
+    <input id="ac-toc" name="accordion-toc" type="checkbox" />
+    <label for="ac-toc">Toggle Menu</label>
+    <ul class="nav__items">
+        <!-- ICBC (10-19) -->
+        <li>
+            <span class="nav__sub-title">ICBC & Car Accident</span>
+            <ul>
+                {% assign guides = site.guides | sort: "order" %}
+                {% for guide in guides %}
+                {% if guide.order >= 10 and guide.order < 20 %} <li
+                    class="{% if guide.url == page.url %}active{% endif %}">
+                    <a href="{{ guide.url | relative_url }}">{{ guide.nav_title | default: guide.title }}</a>
         </li>
+        {% endif %}
         {% endfor %}
+    </ul>
+    </li>
+
+    <!-- Benefits (20-29) -->
+    <li>
+        <span class="nav__sub-title">Extended Health Benefits</span>
+        <ul>
+            {% for guide in guides %}
+            {% if guide.order >= 20 and guide.order < 30 %} <li class="{% if guide.url == page.url %}active{% endif %}">
+                <a href="{{ guide.url | relative_url }}">{{ guide.nav_title | default: guide.title }}</a>
+    </li>
+    {% endif %}
+    {% endfor %}
+    </ul>
+    </li>
+
+    <!-- Office (30-39) -->
+    <li>
+        <span class="nav__sub-title">Office & Workers</span>
+        <ul>
+            {% for guide in guides %}
+            {% if guide.order >= 30 and guide.order < 40 %} <li class="{% if guide.url == page.url %}active{% endif %}">
+                <a href="{{ guide.url | relative_url }}">{{ guide.nav_title | default: guide.title }}</a>
+    </li>
+    {% endif %}
+    {% endfor %}
+    </ul>
+    </li>
+
+    <!-- Sports (40-49) -->
+    <li>
+        <span class="nav__sub-title">Sports & Active Lifestyle</span>
+        <ul>
+            {% for guide in guides %}
+            {% if guide.order >= 40 and guide.order < 50 %} <li class="{% if guide.url == page.url %}active{% endif %}">
+                <a href="{{ guide.url | relative_url }}">{{ guide.nav_title | default: guide.title }}</a>
+    </li>
+    {% endif %}
+    {% endfor %}
+    </ul>
+    </li>
+
+    <!-- Symptoms (50-69) -->
+    <li>
+        <span class="nav__sub-title">Symptoms & Conditions</span>
+        <ul>
+            {% for guide in guides %}
+            {% if guide.order >= 50 and guide.order < 70 %} <li class="{% if guide.url == page.url %}active{% endif %}">
+                <a href="{{ guide.url | relative_url }}">{{ guide.nav_title | default: guide.title }}</a>
+    </li>
+    {% endif %}
+    {% endfor %}
+    </ul>
+    </li>
+
+    <!-- Philosophy (70-79) -->
+    <li>
+        <span class="nav__sub-title">Philosophy & First Visit</span>
+        <ul>
+            {% for guide in guides %}
+            {% if guide.order >= 70 and guide.order < 80 %} <li class="{% if guide.url == page.url %}active{% endif %}">
+                <a href="{{ guide.url | relative_url }}">{{ guide.nav_title | default: guide.title }}</a>
+    </li>
+    {% endif %}
+    {% endfor %}
+    </ul>
+    </li>
+
+    <!-- Locations (80-89) -->
+    <li>
+        <span class="nav__sub-title">Locations & Access</span>
+        <ul>
+            {% for guide in guides %}
+            {% if guide.order >= 80 and guide.order < 90 %} <li class="{% if guide.url == page.url %}active{% endif %}">
+                <a href="{{ guide.url | relative_url }}">{{ guide.nav_title | default: guide.title }}</a>
+    </li>
+    {% endif %}
+    {% endfor %}
+    </ul>
+    </li>
     </ul>
 </nav>
