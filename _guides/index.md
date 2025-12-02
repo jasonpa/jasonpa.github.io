@@ -7,16 +7,6 @@ header:
   #overlay_filter: 0.5
 toc: false
 ---
-<!-- The section is automatically determined by the order field in each guide's front matter:
-
-Order 10-19 → ICBC & Car Accident
-Order 20-29 → Extended Health Benefits
-Order 30-39 → Office & Workers
-Order 40-49 → Sports & Active Lifestyle
-Order 50-69 → Symptoms & Conditions
-Order 70-79 → Philosophy & First Visit
-Order 80-89 → Locations & Access
- -->
 
 <link rel="stylesheet" href="{{ '/assets/css/guides.css' | relative_url }}">
 
@@ -27,7 +17,7 @@ Order 80-89 → Locations & Access
 
 <div class="guides-grid">
 
-  <!-- ICBC Guides -->
+  <!-- ICBC Guides Order 10-19 -->
   <div class="guide-card">
     <h3>ICBC & Car Accident</h3>
     <p>Learn how to navigate ICBC coverage, delayed pain, and combining acupuncture with other therapies after a car accident.</p>
@@ -40,7 +30,7 @@ Order 80-89 → Locations & Access
     <a href="#guides-icbc" class="guide-card-link">View guides</a>
   </div>
 
-  <!-- Benefits Guides -->
+  <!-- Benefits Guides Order 20-29 -->
   <div class="guide-card">
     <h3>Extended Health Benefits</h3>
     <p>Make the most of your extended health benefits for acupuncture and long-term maintenance care.</p>
@@ -53,7 +43,7 @@ Order 80-89 → Locations & Access
     <a href="#guides-benefits" class="guide-card-link">View guides</a>
   </div>
 
-  <!-- Office / Workers Guides -->
+  <!-- Office / Workers Guides Order 30-39 -->
   <div class="guide-card">
     <h3>Office & Workers</h3>
     <p>Guides for office workers, shift workers and professionals dealing with neck, shoulder and fatigue issues.</p>
@@ -66,7 +56,7 @@ Order 80-89 → Locations & Access
     <a href="#guides-office" class="guide-card-link">View guides</a>
   </div>
 
-  <!-- Sports Guides -->
+  <!-- Sports Guides Order 40-49 -->
   <div class="guide-card">
     <h3>Sports & Active Lifestyle</h3>
     <p>Support for runners, hikers and active adults who want to keep moving with less pain.</p>
@@ -79,7 +69,7 @@ Order 80-89 → Locations & Access
     <a href="#guides-sports" class="guide-card-link">View guides</a>
   </div>
 
-  <!-- Symptoms Guides -->
+  <!-- Symptoms Guides Order 50-69 -->
   <div class="guide-card">
     <h3>Symptoms & Conditions</h3>
     <p>Understand common patterns such as headaches, digestion, women's health and seasonal pain.</p>
@@ -92,7 +82,7 @@ Order 80-89 → Locations & Access
     <a href="#guides-symptoms" class="guide-card-link">View guides</a>
   </div>
 
-  <!-- Philosophy & First Visit -->
+  <!-- Philosophy & First Visit Order 70-79 -->
   <div class="guide-card">
     <h3>Philosophy & First Visit</h3>
     <p>Learn about Ryu Clinic's treatment philosophy and what to expect at your first visit.</p>
@@ -105,7 +95,7 @@ Order 80-89 → Locations & Access
     <a href="#guides-philosophy" class="guide-card-link">View guides</a>
   </div>
 
-  <!-- Locations & Access -->
+  <!-- Locations & Access Order 80-89 -->
   <div class="guide-card">
     <h3>Locations & Access</h3>
     <p>Find out how to choose between Coquitlam Momentum and Vancouver Regen, and how to get here.</p>
