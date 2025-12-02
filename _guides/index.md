@@ -7,6 +7,16 @@ header:
   #overlay_filter: 0.5
 toc: false
 ---
+<!-- The section is automatically determined by the order field in each guide's front matter:
+
+Order 10-19 → ICBC & Car Accident
+Order 20-29 → Extended Health Benefits
+Order 30-39 → Office & Workers
+Order 40-49 → Sports & Active Lifestyle
+Order 50-69 → Symptoms & Conditions
+Order 70-79 → Philosophy & First Visit
+Order 80-89 → Locations & Access
+ -->
 
 <link rel="stylesheet" href="{{ '/assets/css/guides.css' | relative_url }}">
 
