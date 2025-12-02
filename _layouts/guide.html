@@ -1,5 +1,8 @@
 ---
 layout: default
+toc: true
+toc_sticky: true
+toc_label: "Table of Contents"
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/guides.css' | relative_url }}">
@@ -54,34 +57,51 @@ layout: default
             {% endunless %}
 
             <section class="page__content" itemprop="text">
-                {% if page.toc %}
-                <aside class="sidebar__right {% if page.toc_sticky %}sticky{% endif %}">
+                {% unless page.toc == false %}
+                <aside class="sidebar__right sticky">
                     <nav class="toc">
                         <header>
                             <h4 class="nav__title"><i class="fas fa-file-alt"></i> {{ page.toc_label | default:
                                 site.data.ui-text[site.locale].toc_label | default: "On this page" }}</h4>
                         </header>
                         {% include toc.html sanitize=true html=content h_min=1 h_max=6 class="toc__menu" %}
+
+                        <!-- Manual TOC entry for Korean Summary -->
+                        {% if page.korean_summary %}
+                        <ul class="toc__menu">
+                            <li><a href="#korean-summary">🇰🇷 Korean Summary / 한국어 요약</a></li>
+                        </ul>
+                        {% endif %}
                     </nav>
                 </aside>
-                {% endif %}
+                {% endunless %}
 
                 {{ content }}
 
                 {% if page.korean_summary %}
-                <div class="notice--info">
-                    <h4>Korean Summary / 한국어 요약</h4>
-                    {% if page.korean_summary_intro %}
-                    <p>{{ page.korean_summary_intro }}</p>
-                    {% else %}
-                    <p>위 영어 가이드 내용을 한국어로 간단히 정리한 요약입니다.</p>
-                    {% endif %}
+                <div id="korean-summary"
+                    style="background: white; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.08); overflow: hidden; margin: 40px 0; border: 1px solid #e1e4e8;">
+                    <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 20px 30px;">
+                        <h4 style="color: white; margin: 0; font-size: 1.2em; font-weight: 600;">🇰🇷 Korean Summary /
+                            한국어 요약</h4>
+                    </div>
+                    <div style="padding: 30px; color: #4a4a4a; line-height: 1.7;">
+                        {% if page.korean_summary_intro %}
+                        <p style="margin-bottom: 1.5em; font-weight: 500; color: #2c3e50;">{{ page.korean_summary_intro
+                            }}</p>
+                        {% else %}
+                        <p style="margin-bottom: 1.5em; font-weight: 500; color: #2c3e50;">위 영어 가이드 내용을 한국어로 간단히 정리한
+                            요약입니다.</p>
+                        {% endif %}
 
-                    {% if page.korean_summary_body %}
-                    {{ page.korean_summary_body }}
-                    {% else %}
-                    <p>이 섹션에 한국어 요약 3–4문장을 추가해 주세요.</p>
-                    {% endif %}
+                        {% if page.korean_summary_body %}
+                        <div style="font-size: 0.95em;">
+                            {{ page.korean_summary_body }}
+                        </div>
+                        {% else %}
+                        <p>이 섹션에 한국어 요약 3–4문장을 추가해 주세요.</p>
+                        {% endif %}
+                    </div>
                 </div>
                 {% endif %}
 
