@@ -1,6 +1,5 @@
 ---
 header:
-  teaser: "assets/images/event-1.jpg"
 title: 무료 미술 힐링강의 (칼라와 에너지)
 date: 2019-04-01 00:00:00
 tags: [News]

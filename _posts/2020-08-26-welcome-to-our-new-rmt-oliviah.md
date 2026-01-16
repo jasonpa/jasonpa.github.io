@@ -1,6 +1,6 @@
 ---
 header:
-  teaser:  assets/images/oliviah.jpg
+  teaser:  /assets/images/oliviah.jpg
 title: Welcome to our new RMT Oliviah
 date: 2020-08-26 00:00
 tags: 

@@ -1,0 +1,68 @@
+---
+layout: default
+---
+<article class="bg-gray-50 min-h-screen pb-20">
+    <!-- Project Header -->
+    <header class="bg-clinic-dark text-white pt-24 pb-16">
+        <div class="container mx-auto px-6">
+            <div class="max-w-4xl mx-auto text-center">
+                {% if page.status %}
+                <span class="inline-block px-3 py-1 rounded-full text-xs font-semibold tracking-wider uppercase mb-4
+                    {% if page.status == 'In Development' %}bg-yellow-500 text-yellow-900
+                    {% elsif page.status == 'Live' %}bg-green-500 text-green-900
+                    {% else %}bg-gray-600 text-gray-200{% endif %}">
+                    {{ page.status }}
+                </span>
+                {% endif %}
+                <h1 class="text-4xl md:text-5xl font-bold mb-6">{{ page.title }}</h1>
+                <p class="text-xl text-gray-300 max-w-2xl mx-auto">{{ page.description }}</p>
+
+                {% if page.tech_stack %}
+                <div class="flex flex-wrap justify-center gap-3 mt-8">
+                    {% for tech in page.tech_stack %}
+                    <span class="bg-white/10 px-4 py-1.5 rounded-full text-sm backdrop-blur-sm border border-white/20">
+                        {{ tech }}
+                    </span>
+                    {% endfor %}
+                </div>
+                {% endif %}
+            </div>
+        </div>
+    </header>
+
+    <!-- Project Content -->
+    <div class="container mx-auto px-6 -mt-10">
+        <div class="bg-white rounded-xl shadow-xl overflow-hidden max-w-4xl mx-auto">
+            {% if page.image %}
+            <div class="w-full h-64 md:h-96 bg-gray-200 relative">
+                <img src="{{ page.image }}" alt="{{ page.title }}" class="w-full h-full object-cover">
+            </div>
+            {% endif %}
+
+            <div class="p-8 md:p-12">
+                <div class="prose prose-lg prose-slate max-w-none">
+                    {{ content }}
+                </div>
+            </div>
+        </div>
+
+        <!-- Action Buttons -->
+        <div class="text-center mt-12">
+            <div class="flex justify-center gap-4">
+                {% if page.demo_url %}
+                <a href="{{ page.demo_url }}" class="btn-primary flex items-center gap-2">
+                    <i class="fas fa-external-link-alt"></i> Live Demo
+                </a>
+                {% endif %}
+                {% if page.github_url %}
+                <a href="{{ page.github_url }}" class="btn-secondary flex items-center gap-2">
+                    <i class="fab fa-github"></i> View Code
+                </a>
+                {% endif %}
+                <a href="/lab" class="btn-secondary flex items-center gap-2">
+                    <i class="fas fa-arrow-left"></i> Back to Lab
+                </a>
+            </div>
+        </div>
+    </div>
+</article>

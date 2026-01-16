@@ -1,0 +1,7 @@
+<!-- Placeholder for Video -->
+<div class="video-container my-8 relative aspect-video">
+    {% if include.id %}
+    <iframe src="https://www.youtube.com/embed/{{ include.id }}" class="absolute inset-0 w-full h-full"
+        allowfullscreen></iframe>
+    {% endif %}
+</div>

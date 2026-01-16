@@ -1,0 +1,20 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+@theme {
+    --color-clinic-teal: #006D77;
+    --color-clinic-dark: #2F4858;
+    --color-clinic-blue: #4CC9F0;
+    --color-clinic-gray: #E5E5E5;
+    --font-sans: "Inter", "Noto Sans KR", sans-serif;
+}
+
+@layer components {
+    .btn-primary {
+        @apply px-6 py-2 text-white rounded-lg bg-clinic-teal hover:bg-clinic-teal/90 transition-all shadow-md cursor-pointer;
+    }
+
+    .btn-secondary {
+        @apply px-6 py-2 text-gray-700 bg-white border border-gray-300 rounded-lg hover:bg-gray-50 transition-all cursor-pointer;
+    }
+}

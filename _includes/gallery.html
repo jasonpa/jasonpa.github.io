@@ -1,0 +1,6 @@
+<!-- Placeholder for Gallery -->
+<div class="gallery grid grid-cols-2 md:grid-cols-3 gap-4 my-8">
+    {% for image in include.gallery %}
+    <img src="{{ image.url | default: image.image_path }}" alt="{{ image.title }}" class="rounded-lg">
+    {% endfor %}
+</div>

@@ -1,6 +1,5 @@
 ---
 header:
-  teaser:  assets/images/natasha-spencer-_hH0dC6A-FM-unsplash.jpg
 title: Self Care After AcuPoint Injections
 date: 2015-08-04 00:00:00
 categories:

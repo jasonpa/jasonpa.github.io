@@ -1,0 +1,12 @@
+<!-- Placeholder for Feature Row -->
+<div class="grid grid-cols-1 md:grid-cols-3 gap-6 my-8">
+    {% for feature in include.feature_row %}
+    <div class="feature text-center">
+        {% if feature.image_path %}
+        <img src="{{ feature.image_path }}" alt="{{ feature.alt }}" class="rounded-lg shadow-sm mb-4 mx-auto">
+        {% endif %}
+        <h3 class="font-bold">{{ feature.title }}</h3>
+        <p>{{ feature.excerpt }}</p>
+    </div>
+    {% endfor %}
+</div>

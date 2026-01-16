@@ -1,0 +1,9 @@
+<figure class="my-6">
+    {% if include.image_path %}
+    <img src="{{ include.image_path | relative_url }}" alt="{{ include.alt | default: include.caption }}"
+        class="w-full rounded-lg shadow-md">
+    {% endif %}
+    {% if include.caption %}
+    <figcaption class="text-center text-sm text-gray-500 mt-2 italic">{{ include.caption }}</figcaption>
+    {% endif %}
+</figure>

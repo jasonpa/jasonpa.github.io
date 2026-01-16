@@ -1,0 +1,37 @@
+---
+layout: default
+---
+<article class="container mx-auto px-6 py-12 max-w-4xl">
+    <header class="mb-8">
+        <h1 class="text-3xl md:text-4xl font-bold text-gray-900 mb-4">{{ page.title }}</h1>
+        <div class="flex items-center text-sm text-gray-500 gap-4 mb-6">
+            {% if page.date %}
+            <time datetime="{{ page.date | date_to_xmlschema }}">
+                <i class="far fa-calendar-alt mr-2"></i>{{ page.date | date: "%B %d, %Y" }}
+            </time>
+            {% endif %}
+            {% if page.categories %}
+            <span>
+                <i class="far fa-folder mr-2"></i>{{ page.categories | join: ", " }}
+            </span>
+            {% endif %}
+        </div>
+        {% if page.header.overlay_image %}
+        <div class="w-full h-64 md:h-96 rounded-xl overflow-hidden mb-8">
+            <img src="{{ page.header.overlay_image }}" alt="{{ page.title }}" class="w-full h-full object-cover">
+        </div>
+        {% endif %}
+    </header>
+
+    <div class="prose prose-lg prose-slate max-w-none">
+        {{ content }}
+    </div>
+
+    <div class="mt-12 pt-8 border-t border-gray-200">
+        <div class="flex flex-wrap gap-2">
+            {% for tag in page.tags %}
+            <span class="px-3 py-1 bg-gray-100 text-gray-600 rounded-full text-sm">#{{ tag }}</span>
+            {% endfor %}
+        </div>
+    </div>
+</article>

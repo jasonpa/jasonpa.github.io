@@ -1,6 +1,6 @@
 ---
 header:
-  teaser:  assets/images/2019-winter-festival.jpg
+  teaser:  /assets/images/2019-winter-festival.jpg
 title: 2019 Suter Brook Winter Festival
 date: 2019-11-27 11:28
 tags: 
