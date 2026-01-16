@@ -29,13 +29,30 @@
             </a>
         </div>
 
-        <!-- Mobile Menu Button (Hamburger) - Implementation required later with JS -->
-        <button class="md:hidden text-gray-600 focus:outline-none" aria-label="Toggle menu">
+        <!-- Mobile Menu Button (Hamburger) -->
+        <button id="mobile-menu-btn" class="md:hidden text-gray-600 focus:outline-none" aria-label="Toggle menu">
             <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16">
                 </path>
             </svg>
         </button>
     </nav>
+
+    <!-- Mobile Menu Overlay -->
+    <div id="mobile-menu"
+        class="hidden md:hidden bg-white border-t border-gray-100 absolute w-full left-0 top-full shadow-lg">
+        <div class="flex flex-col px-6 py-4 space-y-4">
+            <a href="/about"
+                class="text-sm font-medium text-gray-600 hover:text-clinic-teal transition-colors">About</a>
+            <a href="/services"
+                class="text-sm font-medium text-gray-600 hover:text-clinic-teal transition-colors">Services</a>
+            <a href="/guides"
+                class="text-sm font-medium text-gray-600 hover:text-clinic-teal transition-colors">Guides</a>
+            <a href="/blog" class="text-sm font-medium text-gray-600 hover:text-clinic-teal transition-colors">Blog</a>
+            <a href="/contact"
+                class="text-sm font-medium text-gray-600 hover:text-clinic-teal transition-colors">Contact</a>
+            <a href="/booking/" class="text-sm font-medium text-clinic-teal font-semibold">Book Online</a>
+        </div>
+    </div>
 </header>
 <div class="h-20"></div> <!-- Spacer for fixed header -->
