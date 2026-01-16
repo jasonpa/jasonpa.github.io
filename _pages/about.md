@@ -8,7 +8,7 @@ permalink: /about/
     <div class="max-w-5xl mx-auto">
         <div class="flex flex-col md:flex-row gap-16 items-start">
             <!-- Profile Image & Quick Stats -->
-            <div class="w-full md:w-1/3 flex flex-col gap-8 sticky top-24">
+            <div class="w-full md:w-1/3 flex flex-col gap-8 md:sticky top-24">
                 <img src="/assets/images/IMG_4657.jpeg" alt="Jiman Ryu" class="rounded-2xl shadow-xl w-full object-cover aspect-[3/4]">
                 
                 <div class="bg-gray-50 rounded-xl p-6 border border-gray-100">
