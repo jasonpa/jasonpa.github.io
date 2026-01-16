@@ -292,6 +292,9 @@
   .top-24 {
     top: calc(var(--spacing) * 24);
   }
+  .top-full {
+    top: 100%;
+  }
   .right-3 {
     right: calc(var(--spacing) * 3);
   }
@@ -300,6 +303,9 @@
   }
   .-left-\[41px\] {
     left: calc(41px * -1);
+  }
+  .left-0 {
+    left: calc(var(--spacing) * 0);
   }
   .z-0 {
     z-index: 0;
