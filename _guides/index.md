@@ -1,11 +1,7 @@
 ---
-layout: splash
+layout: default
 title: "Ryu Clinic Guide Center"
 permalink: /guides/
-header:
-  overlay_image: /assets/images/sean-o-KMn4VEeEPR8-unsplash.jpg
-  #overlay_filter: 0.5
-toc: false
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/guides.css' | relative_url }}">
