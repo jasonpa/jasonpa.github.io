@@ -15,3 +15,8 @@ group :jekyll_plugins do
   gem "jekyll-include-cache"
   gem "jekyll-algolia"
 end
+
+gem "csv", "~> 3.3"
+gem "bigdecimal"
+gem "webrick"
+gem "liquid", ">= 4.0.4"

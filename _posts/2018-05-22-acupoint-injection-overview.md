@@ -1,6 +1,6 @@
 ---
 header:
-cover:  assets/images/hyttalo-souza-a1p0Z7RSkL8-unsplash.jpg
+cover:  /assets/images/hyttalo-souza-a1p0Z7RSkL8-unsplash.jpg
 title: Acupoint Injection Overview
 date: 2018-05-22 00:00:00
 tags: [Getting started]

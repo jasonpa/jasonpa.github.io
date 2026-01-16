@@ -1,0 +1,41 @@
+<header class="bg-white/80 backdrop-blur-md fixed w-full top-0 z-50 border-b border-gray-100">
+    <nav class="container mx-auto px-6 py-4 flex justify-between items-center">
+        <!-- Logo -->
+        <a href="/" class="flex items-center gap-2 group">
+            <span
+                class="text-xl font-bold tracking-tight text-clinic-dark group-hover:text-clinic-teal transition-colors">
+                Ryu Clinic
+            </span>
+            <span class="hidden sm:block text-xs uppercase tracking-widest text-gray-400 border-l pl-2 ml-2">
+                Engineering Health
+            </span>
+        </a>
+
+        <!-- Desktop Menu -->
+        <div class="hidden md:flex items-center gap-6">
+            <a href="/about"
+                class="text-sm font-medium text-gray-600 hover:text-clinic-teal transition-colors">About</a>
+            <a href="/services"
+                class="text-sm font-medium text-gray-600 hover:text-clinic-teal transition-colors">Services</a>
+            <a href="/guides"
+                class="text-sm font-medium text-gray-600 hover:text-clinic-teal transition-colors">Guides</a>
+            <a href="/blog" class="text-sm font-medium text-gray-600 hover:text-clinic-teal transition-colors">Blog</a>
+            <a href="/contact"
+                class="text-sm font-medium text-gray-600 hover:text-clinic-teal transition-colors">Contact</a>
+
+            <a href="/booking/"
+                class="px-5 py-2 text-sm font-medium text-white bg-clinic-teal rounded-full hover:bg-opacity-90 transition-all shadow-sm hover:shadow-md">
+                Book Online
+            </a>
+        </div>
+
+        <!-- Mobile Menu Button (Hamburger) - Implementation required later with JS -->
+        <button class="md:hidden text-gray-600 focus:outline-none" aria-label="Toggle menu">
+            <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16">
+                </path>
+            </svg>
+        </button>
+    </nav>
+</header>
+<div class="h-20"></div> <!-- Spacer for fixed header -->

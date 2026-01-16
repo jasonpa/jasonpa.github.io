@@ -1,7 +1,7 @@
 ---
 header:
-  teaser: assets/images/kelly-sikkema-htDhtz2GqAc-unsplash.jpg
-cover: assets/images/kelly-sikkema-htDhtz2GqAc-unsplash.jpg
+  teaser: /assets/images/kelly-sikkema-htDhtz2GqAc-unsplash.jpg
+cover: /assets/images/kelly-sikkema-htDhtz2GqAc-unsplash.jpg
 title: Ryu Clinic Relocation Notice
 date: 2025-06-01 00:00:00
 categories:

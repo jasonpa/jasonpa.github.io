@@ -1,125 +1,92 @@
 ---
+layout: default
+title: Contact & Booking
 permalink: /contact/
-title: Contact
-header:
-  # teaser:
-  # overlay_image:
-sidebar:
-  nav: "about"
-toc: false
 ---
 
-
-<div style="text-align: center; margin-bottom: 40px;">
-  <p style="font-size: 1.2em; color: #5a6c7d; max-width: 700px; margin: 0 auto;">
-    You can receive treatment in both <strong>Coquitlam</strong> and <strong>Vancouver</strong>. Choose the location most convenient for you.
-  </p>
-</div>
-
-<div style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: center;">
-
-  <!-- Coquitlam Card -->
-  <div style="flex: 1; min-width: 300px; background: white; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.08); overflow: hidden; border: 1px solid #e1e4e8; display: flex; flex-direction: column;">
-    <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; text-align: center;">
-      <h2 style="color: white; margin: 0; font-size: 1.5em; border-bottom: none;">Coquitlam</h2>
-      <p style="color: rgba(255,255,255,0.9); margin: 5px 0 0 0; font-size: 0.95em;">Momentum Therapeutics</p>
+<!-- Hero Section -->
+<section class="bg-clinic-dark text-white py-20">
+    <div class="container mx-auto px-6 text-center">
+        <h1 class="text-4xl font-bold mb-4">Contact & Location</h1>
+        <p class="text-xl text-gray-300">Serving Coquitlam & Vancouver</p>
     </div>
-    
-    <div style="padding: 30px; flex-grow: 1; display: flex; flex-direction: column; gap: 20px;">
-      
-      <!-- Address -->
-      <div style="display: flex; gap: 15px; align-items: flex-start;">
-        <div style="background: #f0f4f8; padding: 10px; border-radius: 50%; color: #4a5568; min-width: 40px; text-align: center;">
-          <i class="fas fa-map-marker-alt"></i>
-        </div>
-        <div>
-          <strong style="display: block; color: #2d3748; margin-bottom: 4px;">Address</strong>
-          <a href="https://maps.app.goo.gl/MLsq6bt2DPxdcVpT8" target="_blank" style="color: #3182ce; text-decoration: none; line-height: 1.5;">
-            3056 Glen Dr unit # 500<br>Coquitlam, BC V3B 0V1
-          </a>
-        </div>
-      </div>
+</section>
 
-      <!-- Phone -->
-      <div style="display: flex; gap: 15px; align-items: flex-start;">
-        <div style="background: #f0f4f8; padding: 10px; border-radius: 50%; color: #4a5568; min-width: 40px; text-align: center;">
-          <i class="fas fa-phone"></i>
-        </div>
-        <div>
-          <strong style="display: block; color: #2d3748; margin-bottom: 4px;">Phone</strong>
-          <a href="tel:6044755328" style="color: #3182ce; text-decoration: none;">604.475.5328</a>
-        </div>
-      </div>
+<section class="py-12 px-6">
+    <div class="container mx-auto">
+        <div class="max-w-5xl mx-auto bg-white rounded-2xl shadow-xl overflow-hidden flex flex-col md:flex-row">
+            <!-- Info -->
+            <div class="p-10 md:w-1/2">
+                <h2 class="text-2xl font-bold text-gray-900 mb-8">Visit Us</h2>
+                <!-- Maps -->
+            <div class="h-96 md:h-full bg-gray-50 rounded-2xl overflow-hidden shadow-sm flex flex-col items-center justify-center p-8 text-center border border-gray-100">
+                 <i class="fas fa-map-marked-alt text-6xl text-gray-300 mb-6"></i>
+                 <h3 class="text-xl font-bold text-gray-900 mb-4">Find Us on Google Maps</h3>
+                 <div class="space-y-4 w-full max-w-xs">
+                     <a href="https://www.google.com/maps/search/?api=1&query=Momentum+Therapeutics+Coquitlam" target="_blank" class="block w-full py-3 px-4 bg-white border border-clinic-teal text-clinic-teal rounded-lg font-medium hover:bg-teal-50 transition-colors">
+                        <i class="fas fa-location-arrow mr-2"></i> View Coquitlam Map
+                     </a>
+                     <a href="https://www.google.com/maps/search/?api=1&query=Regen+Recovery+Vancouver" target="_blank" class="block w-full py-3 px-4 bg-white border border-clinic-blue text-clinic-blue rounded-lg font-medium hover:bg-blue-50 transition-colors">
+                        <i class="fas fa-location-arrow mr-2"></i> View Vancouver Map
+                     </a>
+                 </div>
+            </div>
+                
+                <div class="space-y-8">
+                    <!-- Coquitlam -->
+                    <div class="flex items-start gap-4">
+                        <div class="w-10 h-10 bg-teal-50 rounded-lg flex items-center justify-center text-clinic-teal shrink-0">
+                            <i class="fas fa-map-marker-alt"></i>
+                        </div>
+                        <div>
+                            <h3 class="font-bold text-gray-900">Coquitlam (Momentum Therapeutics)</h3>
+                            <p class="text-gray-600 mt-1">
+                                #500 - 3056 Glen Dr<br>
+                                Coquitlam, BC V3B 2P7<br>
+                                <a href="tel:604-475-5328" class="text-clinic-teal hover:underline font-medium">604-475-5328</a>
+                            </p>
+                        </div>
+                    </div>
 
-      <!-- Parking -->
-      <div style="display: flex; gap: 15px; align-items: flex-start;">
-        <div style="background: #f0f4f8; padding: 10px; border-radius: 50%; color: #4a5568; min-width: 40px; text-align: center;">
-          <i class="fas fa-parking"></i>
+                    <!-- Vancouver -->
+                    <div class="flex items-start gap-4">
+                        <div class="w-10 h-10 bg-blue-50 rounded-lg flex items-center justify-center text-clinic-blue shrink-0">
+                            <i class="fas fa-map-marker-alt"></i>
+                        </div>
+                        <div>
+                            <h3 class="font-bold text-gray-900">Vancouver (Regen Recovery)</h3>
+                            <p class="text-gray-600 mt-1">
+                                1433 Cedar Cottage Mews<br>
+                                Vancouver, BC V5N 2R5<br>
+                                <a href="tel:604-336-8141" class="text-clinic-blue hover:underline font-medium">604-336-8141</a>
+                            </p>
+                        </div>
+                    </div>
+                    
+                    <div class="flex items-start gap-4">
+                        <div class="w-10 h-10 bg-teal-50 rounded-lg flex items-center justify-center text-clinic-teal shrink-0">
+                            <i class="fas fa-envelope"></i>
+                        </div>
+                        <div>
+                            <h3 class="font-bold text-gray-900">General Questions</h3>
+                            <p class="text-gray-600 mt-1">
+                                <a href="mailto:info@ryu.clinic" class="hover:text-clinic-teal">info@ryu.clinic</a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Booking CTA -->
+            <div class="bg-clinic-dark p-10 md:w-1/2 text-white flex flex-col justify-center">
+                <h2 class="text-2xl font-bold mb-4">Book Your Appointment</h2>
+                <p class="text-gray-300 mb-8">
+                    Choose between our Coquitlam (Momentum) and Vancouver (Regen Recovery) locations.
+                </p>
+                <a href="/booking/" class="btn-primary text-center bg-clinic-blue hover:bg-white hover:text-clinic-dark border-none">
+                    Select Location & Book
+                </a>
+            </div>
         </div>
-        <div>
-          <strong style="display: block; color: #2d3748; margin-bottom: 4px;">Parking</strong>
-          <p style="margin: 0; color: #4a5568; font-size: 0.95em; line-height: 1.6;">
-            Near <a href="/assets/images/momentum-parking.jpg" style="color: #3182ce;">free public parking</a> at Glen Skate Park. Enter through the Glen entrance and enter unit <strong>500</strong> into the machine.
-          </p>
-        </div>
-      </div>
-
-      <div style="margin-top: auto; padding-top: 20px;">
-        <a href="https://momentum.janeapp.com/locations/glen-drive-momentum-therapeutics-health-care-clinic/book#/staff_member/139" target="_blank" class="btn btn--primary btn--large" style="width: 100%; text-align: center; background-color: #667eea; border-color: #667eea;">Book Coquitlam</a>
-      </div>
     </div>
-  </div>
-
-  <!-- Vancouver Card -->
-  <div style="flex: 1; min-width: 300px; background: white; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.08); overflow: hidden; border: 1px solid #e1e4e8; display: flex; flex-direction: column;">
-    <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 25px; text-align: center;">
-      <h2 style="color: white; margin: 0; font-size: 1.5em; border-bottom: none;">Vancouver</h2>
-      <p style="color: rgba(255,255,255,0.9); margin: 5px 0 0 0; font-size: 0.95em;">Regen Recovery</p>
-    </div>
-    
-    <div style="padding: 30px; flex-grow: 1; display: flex; flex-direction: column; gap: 20px;">
-      
-      <!-- Address -->
-      <div style="display: flex; gap: 15px; align-items: flex-start;">
-        <div style="background: #f0f4f8; padding: 10px; border-radius: 50%; color: #4a5568; min-width: 40px; text-align: center;">
-          <i class="fas fa-map-marker-alt"></i>
-        </div>
-        <div>
-          <strong style="display: block; color: #2d3748; margin-bottom: 4px;">Address</strong>
-          <a href="https://maps.app.goo.gl/8YmQraJuuk38oXoW9" target="_blank" style="color: #3182ce; text-decoration: none; line-height: 1.5;">
-            1433 Cedar Cottage Mews<br>Vancouver, BC V5N 2R5
-          </a>
-        </div>
-      </div>
-
-      <!-- Phone -->
-      <div style="display: flex; gap: 15px; align-items: flex-start;">
-        <div style="background: #f0f4f8; padding: 10px; border-radius: 50%; color: #4a5568; min-width: 40px; text-align: center;">
-          <i class="fas fa-phone"></i>
-        </div>
-        <div>
-          <strong style="display: block; color: #2d3748; margin-bottom: 4px;">Phone</strong>
-          <a href="tel:6043368141" style="color: #3182ce; text-decoration: none;">604.336.8141</a>
-        </div>
-      </div>
-
-      <!-- Parking -->
-      <div style="display: flex; gap: 15px; align-items: flex-start;">
-        <div style="background: #f0f4f8; padding: 10px; border-radius: 50%; color: #4a5568; min-width: 40px; text-align: center;">
-          <i class="fas fa-parking"></i>
-        </div>
-        <div>
-          <strong style="display: block; color: #2d3748; margin-bottom: 4px;">Parking</strong>
-          <p style="margin: 0; color: #4a5568; font-size: 0.95em; line-height: 1.6;">
-            Free parkade parking available for patients.
-          </p>
-        </div>
-      </div>
-
-      <div style="margin-top: auto; padding-top: 20px;">
-        <a href="https://regen-recovery.janeapp.com/#/staff_member/21" target="_blank" class="btn btn--info btn--large" style="width: 100%; text-align: center; background-color: #00f2fe; border-color: #00f2fe; color: #005c61;">Book Vancouver</a>
-      </div>
-    </div>
-  </div>
-
-</div>
+</section>

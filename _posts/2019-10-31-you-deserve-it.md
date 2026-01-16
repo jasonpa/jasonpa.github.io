@@ -1,6 +1,5 @@
 ---
 header:
-  teaser:  assets/images/mareko-tamaleaa-u29A-hrVgJU-unsplash.jpg
 #  image:  assets/images/mareko-tamaleaa-u29A-hrVgJU-unsplash.jpg
 #  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 date: 2019-10-31 12:55
@@ -9,8 +8,7 @@ tags:
   - News
 ---
 
-{% include figure image_path="assets/images/mareko-tamaleaa-u29A-hrVgJU-unsplash.jpg
-" alt="this is a placeholder image" caption="This is a figure caption." %}
+{% include figure.html image_path="assets/images/mareko-tamaleaa-u29A-hrVgJU-unsplash.jpg" alt="this is a placeholder image" caption="Photo by Mareko Tamaleaa on Unsplash" %}
 
     Do something nice for yourself today. 
     You deserve a break. 

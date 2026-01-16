@@ -1,6 +1,6 @@
 ---
 header:
-  teaser:  assets/images/ariabc.org.png
+  teaser:  /assets/images/ariabc.org.png
 title: What Is Community Acupuncture?
 date: 2018-06-14 00:00:00
 tags: [Getting started]

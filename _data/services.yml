@@ -1,0 +1,15 @@
+- name: "Acupuncture"
+  description: "Traditional meridian-based therapy for pain relief, stress reduction, and systemic balance."
+  icon: "fas fa-bullseye"
+
+- name: "Herbal Medicine"
+  description: "Personalized herbal formulas to target internal causes of illness and boost immunity."
+  icon: "fas fa-leaf"
+
+- name: "Cupping Therapy"
+  description: "Myofascial decompression to improve blood flow and relieve muscle tension."
+  icon: "fas fa-circle"
+
+- name: "Tui-Na / Massage"
+  description: "Therapeutic massage techniques to align structure and soothe soft tissues."
+  icon: "fas fa-hand-holding-heart"

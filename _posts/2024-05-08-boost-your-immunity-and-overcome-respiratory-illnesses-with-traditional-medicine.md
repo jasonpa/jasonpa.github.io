@@ -1,7 +1,7 @@
 ---
 header:
-  teaser: assets/images/dose-juice-sTPy-oeA3h0-unsplash.jpg
-cover: assets/images/dose-juice-sTPy-oeA3h0-unsplash.jpg
+  teaser: /assets/images/dose-juice-sTPy-oeA3h0-unsplash.jpg
+cover: /assets/images/dose-juice-sTPy-oeA3h0-unsplash.jpg
 title: Boost Your Immunity and Overcome Respiratory Illnesses with Traditional Medicine
 date: 2024-05-08 00:00:00
 categories:

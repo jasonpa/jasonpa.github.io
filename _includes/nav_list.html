@@ -1,0 +1,8 @@
+<!-- Placeholder for Nav List -->
+<nav class="nav-list my-4">
+    <ul>
+        {% for link in include.links %}
+        <li><a href="{{ link.url }}" class="text-clinic-teal hover:underline">{{ link.title }}</a></li>
+        {% endfor %}
+    </ul>
+</nav>

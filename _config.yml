@@ -19,9 +19,21 @@ title_separator: "|"
 subtitle: Acupuncture & Herbal Medicine
 name: "Ryu Clinic Inc."
 email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Acupuncture & Herbal Medicine.
-  ICBC, Acupuncture, TEM Herbal Medicine, Massage Therapy, Cupping, Pain Clinic, Rehabilitation, Acupoint Injection, Chronic Pain, Port Moody, Coquitlam, Tri-Cities, 한의원, 한약, 비염, 호흡기, 수면장애, 소화불량, 통증클리닉, 침치료, 포트무디
+description: >-
+  Premier Acupuncture & Herbal Medicine Clinic serving Coquitlam, Port Moody, and Vancouver.
+  Specializing in ICBC, Chronic Pain, Sports Injury, and Rehabilitation.
+  한의원, 한약, 비염, 호흡기, 수면장애, 소화불량, 통증클리닉, 침치료, 포트무디.
+keywords:
+  - Acupuncture
+  - Herbal Medicine
+  - TCM
+  - Coquitlam
+  - Port Moody
+  - Vancouver
+  - Pain Clinic
+  - ICBC
+  - RMT
+  - Acupoint Injection
 twitter_username: ryuclinic
 threads_username: ryu.clinic
 facebook_username: ryu.clinic
@@ -40,7 +52,7 @@ words_per_minute: 200
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+# remote_theme: mmistakes/minimal-mistakes # REMOVED for 2026 Renewal
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -53,10 +65,14 @@ include:
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
+exclude:
+  - node_modules
+  - package.json
+  - package-lock.json
+  - tailwind.config.js
+  - postcss.config.js
 #   - Gemfile
 #   - Gemfile.lock
-#   - node_modules
 #   - vendor/bundle/
 #   - vendor/cache/
 #   - vendor/gems/
@@ -70,6 +86,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  # - jekyll-algolia
 
 # Site Author
 author:
@@ -102,7 +119,7 @@ footer:
       url: "https://instagram.com/ryu.clinic"
     - label: "Threads"
       icon: "fab fa-fw fa-threads"
-      url: "https://www.threads.com/@ryu.clinic"
+      url: "https://www.threads.net/@ryu.clinic"
 
 
 # Guide section
@@ -111,6 +128,9 @@ collections:
     output: true
     permalink: /guides/:name/
     sort_by: order   # front matter에서 order 사용 가능 (선택사항)
+  projects:
+    output: true
+    permalink: /lab/:path/
 
 defaults:
   # _posts
@@ -118,7 +138,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: post # Changed from single to post for clarity, though we will create layouts
       author_profile: true
       read_time: true
       comments: true
@@ -131,7 +151,7 @@ defaults:
       path: "_pages"
       type: pages
     values:
-      layout: single
+      layout: default
       author_profile: true
       toc: true
   # _guides
@@ -139,12 +159,18 @@ defaults:
       path: "_guides"
       type: guides
     values:
-      layout: guide
+      layout: post
       lang: "en"
       korean_summary: true
       meta_title: ""
       meta_description: ""
       order: 100
+  # projects
+  - scope:
+      path: "_projects"
+      type: projects
+    values:
+      layout: project
 
 
 category_archive:

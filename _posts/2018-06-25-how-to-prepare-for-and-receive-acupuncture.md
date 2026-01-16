@@ -1,6 +1,5 @@
 ---
 header:
-  teaser:  assets/images/clem-onojeghuo-zlABb6Gke24-unsplash.jpg
 title: How to Prepare For and Receive Acupuncture
 date: 2018-06-25 00:00:00
 tags: [Getting started]

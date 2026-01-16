@@ -1,6 +1,6 @@
 ---
 header:
-  teaser:  assets/images/ariabc.org.png
+  teaser:  /assets/images/ariabc.org.png
 navigation: True
 title: Prolotherapy Overview
 date: 2018-05-22 00:00:00

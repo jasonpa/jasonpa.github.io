@@ -1,7 +1,7 @@
 ---
 header:
-  teaser: assets/images/kelly-sikkema-htDhtz2GqAc-unsplash.jpg
-cover: assets/images/kelly-sikkema-htDhtz2GqAc-unsplash.jpg
+  teaser: /assets/images/kelly-sikkema-htDhtz2GqAc-unsplash.jpg
+cover: /assets/images/kelly-sikkema-htDhtz2GqAc-unsplash.jpg
 title: New Year Greetings 2025
 date: 2024-12-31 23:59:59
 categories:

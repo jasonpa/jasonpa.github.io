@@ -1,0 +1,14 @@
+- name: "ChartAI"
+  status: "In Development"
+  description: "AI-powered SOAP note generator for TCM practitioners. Converts shorthand clinical notes into insurance-compliant medical documentation."
+  tech_stack: ["Python", "OpenAI API", "JaneApp Integration", "NLP"]
+  image: "/assets/images/project-chartai.jpg" # Placeholder or need generation
+  demo_url: "#"
+  github_url: "https://github.com/jasonpa/chart-ai"
+  slug: "chart-ai"
+
+- name: "HerbBase"
+  status: "Planning"
+  description: "Digital materia medica database with interaction checking and modern search capabilities."
+  tech_stack: ["React", "Node.js", "MongoDB"]
+  slug: "herb-base"

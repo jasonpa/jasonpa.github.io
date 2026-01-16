@@ -1,7 +1,7 @@
 ---
 header:
-  teaser: assets/images/2024-Blue-Dragon.jpeg
-cover: assets/images/2024-Blue-Dragon.jpeg
+  teaser: /assets/images/2024-Blue-Dragon.jpeg
+cover: /assets/images/2024-Blue-Dragon.jpeg
 title: Wishing You a Healthy and Prosperous New Year from Ryu Clinic
 date: 2024-01-01 00:00:00
 categories:
