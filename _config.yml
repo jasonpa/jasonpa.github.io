@@ -192,8 +192,8 @@ facebook:
 og_image                 : "/assets/images/LOGO-Final-Small.png" # Open Graph/Twitter default site image
 
 instagram:
-  accessToken: [REDACTED]
-  clientId: [REDACTED]
+  accessToken: ENV_INSTAGRAM_TOKEN
+  clientId: ENV_INSTAGRAM_CLIENT_ID
   userId: ryu.clinic
 
 # Analytics
@@ -206,13 +206,13 @@ analytics:
 
 # Google Analytics
 google_analytics:   UA-118747928-1 # Google analytics code, get your code here https://www.google.com/analytics/
-google_maps_api_key: [REDACTED] # Google maps API key, get your key here: https://developers.google.com/maps/documentation/javascript/get-api-key
+google_maps_api_key: ENV_GOOGLE_MAPS_API_KEY # Google maps API key, get your key here: https://developers.google.com/maps/documentation/javascript/get-api-key
 google_place_id: ChIJQwnIMyx5hlQRGFXZSl1rBA4 #Find placeID @: https://developers.google.com/places/place-id
 
 # Jekyll Maps https://ayastreb.me/jekyll-maps/
 maps:
     google:
-      api_key: [REDACTED]
+      api_key: ENV_GOOGLE_MAPS_API_KEY
       marker_cluster:
         # enabled: false
 

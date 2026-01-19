@@ -30,6 +30,11 @@ jobs:
         uses: actions/checkout@v3
       - name: Setup Pages
         uses: actions/configure-pages@v3
+      - name: Inject Secrets
+        run: |
+          sed -i 's/ENV_INSTAGRAM_TOKEN/${{ secrets.INSTAGRAM_TOKEN }}/g' _config.yml
+          sed -i 's/ENV_INSTAGRAM_CLIENT_ID/${{ secrets.INSTAGRAM_CLIENT_ID }}/g' _config.yml
+          sed -i 's/ENV_GOOGLE_MAPS_API_KEY/${{ secrets.GOOGLE_MAPS_API_KEY }}/g' _config.yml
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
