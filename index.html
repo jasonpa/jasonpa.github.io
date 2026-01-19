@@ -4,100 +4,135 @@ title: Home
 ---
 
 <!-- Hero Section -->
-<section class="relative bg-white dark:bg-slate-900 overflow-hidden">
-    <div class="absolute inset-0 z-0 text-shadow-lg">
-        <img src="/assets/images/hero_tcm_tech_blend.png" alt="TCM meets Tech" class="w-full h-full object-cover">
-        <div class="absolute inset-0 bg-black/40"></div>
+<section class="relative min-h-[90vh] flex items-center justify-center overflow-hidden">
+    <!-- Sophisticated Background -->
+    <div class="absolute inset-0 z-0">
+        <img src="/assets/images/hero_tcm_tech_blend.png" alt="TCM meets Tech"
+            class="w-full h-full object-cover scale-105 animate-subtle-zoom">
+        <div class="absolute inset-0 bg-linear-to-b from-clinic-dark/60 via-clinic-dark/40 to-white"></div>
     </div>
 
-    <div class="relative z-10 container mx-auto px-6 py-24 md:py-32 flex flex-col items-center text-center">
+    <div class="relative z-10 container mx-auto px-6 py-24 flex flex-col items-center text-center">
         <div
-            class="inline-block px-3 py-1 mb-6 text-xs font-semibold tracking-wider text-white uppercase bg-white/20 backdrop-blur-sm rounded-full border border-white/30">
+            class="inline-block px-4 py-1.5 mb-8 text-xs font-bold tracking-[0.2em] text-white uppercase bg-white/10 backdrop-blur-md rounded-full border border-white/20 shadow-glass animate-fade-in-down">
             Vancouver • Coquitlam • Port Moody
         </div>
 
-        <h1 class="text-4xl md:text-6xl font-bold text-white mb-6 leading-tight drop-shadow-md">
-            Traditional Healing, <br>
-            <span class="text-teal-300">Enhanced by Technology</span>
+        <h1 class="text-5xl md:text-7xl font-bold text-white mb-8 leading-tight drop-shadow-2xl animate-fade-in">
+            Traditional Healing <br>
+            <span class="text-transparent bg-clip-text bg-linear-to-r from-teal-300 to-blue-300">
+                Enhanced by Technology
+            </span>
         </h1>
 
-        <p class="max-w-2xl mx-auto mb-10 text-lg text-gray-100 leading-relaxed drop-shadow">
-            Premier <strong>Acupuncture</strong> and <strong>Herbal Medicine</strong> clinic serving
-            <strong>Coquitlam</strong>, <strong>Port Moody</strong>, and <strong>Vancouver</strong>.
-            Dr. Jiman Ryu combines clinical excellence with modern technology for data-driven results.
+        <p
+            class="max-w-2xl mx-auto mb-12 text-xl text-gray-100 leading-relaxed font-light drop-shadow-lg animate-fade-in-up">
+            Experience the future of restoration. Dr. Jiman Ryu merges clinical expertise with
+            <span class="font-semibold text-white">data-driven precision</span> for transformative results.
         </p>
 
-        <div class="flex flex-col sm:flex-row gap-4 w-full sm:w-auto">
-            <a href="/booking/" class="btn-primary flex items-center justify-center gap-2">
-                <i class="far fa-calendar-check"></i> Book Appointment
+        <div class="flex flex-col sm:flex-row gap-6 w-full sm:w-auto animate-fade-in-up delay-200">
+            <a href="/booking/" class="btn-primary group flex items-center justify-center gap-3">
+                <span>Book Appointment</span>
+                <i class="far fa-calendar-check group-hover:rotate-12 transition-transform"></i>
             </a>
-            <a href="/lab" class="btn-secondary flex items-center justify-center gap-2">
-                <i class="fas fa-flask"></i> Explore R-Lab
+            <a href="/lab" class="btn-secondary group flex items-center justify-center gap-3">
+                <span>Explore R-Lab</span>
+                <i class="fas fa-flask group-hover:animate-bounce"></i>
             </a>
         </div>
     </div>
 </section>
 
 <!-- Features / Hybrid Identity -->
-<section class="py-20 bg-gray-50">
+<section class="py-32 section-gradient">
     <div class="container mx-auto px-6">
-        <div class="grid grid-cols-1 md:grid-cols-2 gap-12 text-center md:text-left">
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-10">
             <!-- Clinical Side -->
-            <div
-                class="bg-white p-8 rounded-2xl shadow-sm hover:shadow-md transition-shadow border-t-4 border-clinic-teal">
+            <div class="glass-card group border-t-4 border-clinic-teal!">
                 <div
-                    class="inline-flex items-center justify-center w-12 h-12 mb-6 bg-teal-100 text-clinic-teal rounded-xl">
+                    class="inline-flex items-center justify-center w-14 h-14 mb-8 bg-teal-50 text-clinic-teal rounded-2xl group-hover:bg-clinic-teal group-hover:text-white transition-all duration-500 shadow-inner">
                     <i class="fas fa-user-md text-2xl"></i>
                 </div>
-                <h3 class="text-2xl font-bold mb-4 text-gray-900">Rational Healing</h3>
-                <p class="text-gray-600 mb-6">
+                <h3 class="text-3xl font-bold mb-5 text-clinic-dark">Rational Healing</h3>
+                <p class="text-gray-600 mb-8 text-lg leading-relaxed">
                     Evidence-based acupuncture and herbal medicine grounded in over a decade of clinical experience. We
-                    treat the root cause, not just the symptoms.
+                    treat the root cause with scientific rigor.
                 </p>
-                <ul class="text-sm text-gray-500 space-y-2 mb-6">
-                    <li><i class="fas fa-check text-clinic-teal mr-2"></i>Pain Management & Sports Injuries</li>
-                    <li><i class="fas fa-check text-clinic-teal mr-2"></i>Internal Medicine & Digestion</li>
-                    <li><i class="fas fa-check text-clinic-teal mr-2"></i>ICBC & Rehabilitation</li>
-                </ul>
-                <a href="/services" class="text-clinic-teal font-medium hover:underline">View Clinical Services
-                    &rarr;</a>
+                <div class="space-y-4 mb-10">
+                    <div class="flex items-start gap-3">
+                        <i class="fas fa-circle-check text-clinic-teal mt-1"></i>
+                        <span class="text-gray-700">Pain Management & Sports Injuries</span>
+                    </div>
+                    <div class="flex items-start gap-3">
+                        <i class="fas fa-circle-check text-clinic-teal mt-1"></i>
+                        <span class="text-gray-700">Internal Medicine & Digestion</span>
+                    </div>
+                    <div class="flex items-start gap-3">
+                        <i class="fas fa-circle-check text-clinic-teal mt-1"></i>
+                        <span class="text-gray-700">ICBC & rehabilitation specialist</span>
+                    </div>
+                </div>
+                <a href="/services"
+                    class="inline-flex items-center text-clinic-teal font-bold group/link hover:gap-3 transition-all">
+                    View Clinical Services <i
+                        class="fas fa-arrow-right ml-2 group-hover/link:translate-x-1 transition-transform"></i>
+                </a>
             </div>
 
             <!-- Tech Side -->
-            <div
-                class="bg-white p-8 rounded-2xl shadow-sm hover:shadow-md transition-shadow border-t-4 border-clinic-blue">
+            <div class="glass-card group border-t-4 border-clinic-blue!">
                 <div
-                    class="inline-flex items-center justify-center w-12 h-12 mb-6 bg-blue-100 text-clinic-blue rounded-xl">
+                    class="inline-flex items-center justify-center w-14 h-14 mb-8 bg-blue-50 text-clinic-blue rounded-2xl group-hover:bg-clinic-blue group-hover:text-white transition-all duration-500 shadow-inner">
                     <i class="fas fa-code text-2xl"></i>
                 </div>
-                <h3 class="text-2xl font-bold mb-4 text-gray-900">Engineering Health</h3>
-                <p class="text-gray-600 mb-6">
-                    Building the future of healthcare with AI and data. R-Lab develops tools to modernize Traditional
-                    Chinese Medicine practice and patient care.
+                <h3 class="text-3xl font-bold mb-5 text-clinic-dark">Engineering Health</h3>
+                <p class="text-gray-600 mb-8 text-lg leading-relaxed">
+                    Building the future of healthcare with AI and real-time data. R-Lab develops proprietary tools to
+                    modernize TCM practice.
                 </p>
-                <ul class="text-sm text-gray-500 space-y-2 mb-6">
-                    <li><i class="fas fa-check text-clinic-blue mr-2"></i>AI-Powered Diagnosis Support</li>
-                    <li><i class="fas fa-check text-clinic-blue mr-2"></i>Clinical Data Analytics</li>
-                    <li><i class="fas fa-check text-clinic-blue mr-2"></i>Digital Health Tools</li>
-                </ul>
-                <a href="/lab" class="text-clinic-blue font-medium hover:underline">Visit R-Lab Projects &rarr;</a>
+                <div class="space-y-4 mb-10">
+                    <div class="flex items-start gap-3">
+                        <i class="fas fa-circle-check text-clinic-blue mt-1"></i>
+                        <span class="text-gray-700">AI-Powered Diagnosis Support</span>
+                    </div>
+                    <div class="flex items-start gap-3">
+                        <i class="fas fa-circle-check text-clinic-blue mt-1"></i>
+                        <span class="text-gray-700">Clinical Data Analytics</span>
+                    </div>
+                    <div class="flex items-start gap-3">
+                        <i class="fas fa-circle-check text-clinic-blue mt-1"></i>
+                        <span class="text-gray-700">Digital Health Innovations</span>
+                    </div>
+                </div>
+                <a href="/lab"
+                    class="inline-flex items-center text-clinic-blue font-bold group/link hover:gap-3 transition-all">
+                    Visit R-Lab Projects <i
+                        class="fas fa-arrow-right ml-2 group-hover/link:translate-x-1 transition-transform"></i>
+                </a>
             </div>
         </div>
     </div>
 </section>
 
 <!-- Patient Guides / Resources -->
-<section class="py-20 bg-white border-b border-gray-100">
-    <div class="container mx-auto px-6">
-        <div class="flex flex-col md:flex-row justify-between items-end mb-12">
+<section class="py-32 bg-white relative overflow-hidden">
+    <div
+        class="absolute top-0 right-0 -translate-y-1/2 translate-x-1/2 w-96 h-96 bg-teal-50 rounded-full blur-3xl opacity-50">
+    </div>
+
+    <div class="container mx-auto px-6 relative z-10">
+        <div class="flex flex-col md:flex-row justify-between items-end mb-16">
             <div class="max-w-2xl">
-                <h2 class="text-3xl font-bold text-gray-900 mb-4">Patient Guides</h2>
-                <p class="text-lg text-gray-600">
-                    Expert advice on recovering from injuries, managing pain, and understanding your treatment options.
+                <span class="text-clinic-teal font-bold tracking-widest uppercase text-sm mb-4 block">Knowledge
+                    Base</span>
+                <h2 class="text-4xl md:text-5xl font-bold text-clinic-dark mb-6">Patient Guides</h2>
+                <p class="text-xl text-gray-600 font-light">
+                    Expert advice on recovery, pain management, and holistic health.
                 </p>
             </div>
             <a href="/guides"
-                class="hidden md:inline-flex items-center font-medium text-clinic-teal hover:text-clinic-dark transition-colors mt-4 md:mt-0">
+                class="hidden md:inline-flex items-center font-bold text-clinic-teal hover:text-clinic-dark transition-all mt-4 md:mt-0 px-6 py-2 rounded-full border border-clinic-teal/20 hover:bg-clinic-teal/5">
                 View all guides <i class="fas fa-arrow-right ml-2"></i>
             </a>
         </div>
@@ -105,65 +140,81 @@ title: Home
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             {% for guide in site.guides limit:3 %}
             <a href="{{ guide.url }}"
-                class="group block bg-gray-50 rounded-2xl p-8 hover:bg-white hover:shadow-xl transition-all duration-300 border border-gray-100">
+                class="group flex flex-col bg-gray-50/50 rounded-3xl p-10 hover:bg-white hover:shadow-2xl transition-all duration-500 border border-gray-100">
                 <div
-                    class="w-12 h-12 bg-teal-100 text-clinic-teal rounded-xl flex items-center justify-center mb-6 group-hover:bg-clinic-teal group-hover:text-white transition-colors">
-                    <i class="fas fa-book-medical text-xl"></i>
+                    class="w-16 h-16 bg-white text-clinic-teal rounded-2xl flex items-center justify-center mb-8 shadow-sm group-hover:bg-clinic-teal group-hover:text-white transition-all duration-500 group-hover:scale-110">
+                    <i class="fas fa-book-medical text-2xl"></i>
                 </div>
-                <h3 class="text-xl font-bold text-gray-900 mb-3 group-hover:text-clinic-teal transition-colors">
+                <h3 class="text-2xl font-bold text-clinic-dark mb-4 group-hover:text-clinic-teal transition-colors">
                     {{ guide.title }}
                 </h3>
-                <p class="text-gray-600 text-sm leading-relaxed mb-6 line-clamp-3">
+                <p class="text-gray-600 text-base leading-relaxed mb-8 line-clamp-3">
                     {{ guide.excerpt | strip_html }}
                 </p>
-                <div class="flex items-center text-sm font-semibold text-clinic-blue">
-                    Read Guide <i class="fas fa-arrow-right ml-2 group-hover:translate-x-1 transition-transform"></i>
+                <div class="mt-auto flex items-center text-sm font-bold text-clinic-blue">
+                    Read Guide <i class="fas fa-arrow-right ml-2 group-hover:translate-x-2 transition-transform"></i>
                 </div>
             </a>
             {% endfor %}
         </div>
-
-        <div class="mt-8 text-center md:hidden">
-            <a href="/guides" class="btn-secondary inline-flex items-center">
-                View all guides <i class="fas fa-arrow-right ml-2"></i>
-            </a>
-        </div>
     </div>
 </section>
 
+<div class="mt-8 text-center md:hidden">
+    <a href="/guides" class="btn-secondary inline-flex items-center">
+        View all guides <i class="fas fa-arrow-right ml-2"></i>
+    </a>
+</div>
+</div>
+</section>
+
 <!-- Latest from Blog & Lab -->
-<section class="py-20 bg-white">
+<section class="py-32 section-gradient">
     <div class="container mx-auto px-6">
-        <div class="flex justify-between items-end mb-12">
+        <div class="flex flex-col md:flex-row justify-between items-end mb-16">
             <div>
-                <h2 class="text-3xl font-bold text-gray-900 mb-2">Latest Insights</h2>
-                <p class="text-gray-500">Updates from the clinic and the code repository.</p>
+                <span class="text-clinic-blue font-bold tracking-widest uppercase text-sm mb-4 block">Recent
+                    Updates</span>
+                <h2 class="text-4xl font-bold text-clinic-dark mb-4">Latest Insights</h2>
+                <p class="text-xl text-gray-500 font-light">Updates from the clinic and the code repository.</p>
             </div>
-            <a href="/blog" class="hidden md:block text-clinic-teal font-medium hover:underline">View all posts
-                &rarr;</a>
+            <a href="/blog"
+                class="hidden md:inline-flex items-center font-bold text-clinic-blue hover:text-clinic-dark transition-all mt-4 md:mt-0 px-6 py-2 rounded-full border border-clinic-blue/20 hover:bg-clinic-blue/5">
+                View all posts <i class="fas fa-arrow-right ml-2"></i>
+            </a>
         </div>
 
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-10">
             {% for post in site.posts limit:3 %}
-            <article class="flex flex-col group">
-                <a href="{{ post.url }}" class="block overflow-hidden rounded-xl mb-4 aspect-video bg-gray-100">
+            <article
+                class="flex flex-col group bg-white rounded-3xl overflow-hidden shadow-sm hover:shadow-2xl transition-all duration-500 border border-gray-100">
+                <a href="{{ post.url }}" class="block overflow-hidden aspect-video bg-gray-100">
                     {% if post.header.overlay_image %}
                     <img src="{{ post.header.overlay_image }}" alt="{{ post.title }}"
-                        class="object-cover w-full h-full group-hover:scale-105 transition-transform duration-300">
+                        class="object-cover w-full h-full group-hover:scale-110 transition-transform duration-700">
                     {% else %}
-                    <div class="w-full h-full flex items-center justify-center text-gray-400 bg-gray-50">
-                        <i class="fas fa-newspaper text-3xl"></i>
+                    <div
+                        class="w-full h-full flex items-center justify-center text-gray-400 bg-gray-50 group-hover:bg-blue-50 transition-colors">
+                        <i class="fas fa-newspaper text-4xl"></i>
                     </div>
                     {% endif %}
                 </a>
-                <div class="flex-1">
-                    <div class="text-xs text-clinic-teal font-semibold uppercase tracking-wider mb-2">
-                        {{ post.date | date: "%b %d, %Y" }}
+                <div class="p-8 flex-1 flex flex-col">
+                    <div class="flex items-center gap-3 mb-4">
+                        <span
+                            class="px-3 py-1 bg-blue-50 text-clinic-blue text-xs font-bold rounded-full uppercase tracking-wider">
+                            {{ post.date | date: "%b %d, %Y" }}
+                        </span>
                     </div>
-                    <h3 class="text-xl font-bold mb-2 group-hover:text-clinic-teal transition-colors">
+                    <h3 class="text-2xl font-bold mb-4 group-hover:text-clinic-blue transition-colors leading-tight">
                         <a href="{{ post.url }}">{{ post.title }}</a>
                     </h3>
-                    <p class="text-gray-600 text-sm line-clamp-2">{{ post.excerpt | strip_html }}</p>
+                    <p class="text-gray-600 text-sm line-clamp-2 leading-relaxed mb-6">{{ post.excerpt | strip_html }}
+                    </p>
+                    <div
+                        class="mt-auto flex items-center text-sm font-bold text-clinic-teal group-hover:gap-2 transition-all">
+                        Read More <i class="fas fa-arrow-right ml-2 group-hover:translate-x-1 transition-transform"></i>
+                    </div>
                 </div>
             </article>
             {% endfor %}
