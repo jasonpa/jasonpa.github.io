@@ -14,7 +14,7 @@ feature_row:
 
 ![Jiman Ryu](/assets/images/IMG_4657.jpeg)
 
-Jiman Ryu is a registered acupuncturist and a registered Traditional Chinese Medicine (TCM) practitioner in British Columbia (R.TCM.P., R.Ac., CTCMA). He is a graduate of PCU College of Holistic Medicine in Burnaby. Jiman has two Bachelor’s degrees. He obtained a BS in oriental medicine and healthcare from Wonkwang Digital University and BSc in computer science from Hanyang University, South Korea.
+Jiman Ryu is a registered acupuncturist and a registered Traditional Chinese Medicine (TCM) practitioner in British Columbia (R.TCM.P., R.Ac., CCHPBC). He is a graduate of PCU College of Holistic Medicine in Burnaby. Jiman has two Bachelor’s degrees. He obtained a BS in oriental medicine and healthcare from Wonkwang Digital University and BSc in computer science from Hanyang University, South Korea.
 
 Jiman has a specialty in pain management, TCM psychology, pediatrics, gynecology, and immune-related health conditions. The conditions that he has been successfully treated with include:
 
@@ -54,10 +54,10 @@ He never stops studying for his patients. He is passionate about studying herbal
 |**Since 2018** Member of [TEM](https://temist.com)(Traditional Eastern Medicine), TEMFI(TEM Formula Institution)
 |**Since 2017** Member of Acupoint and Regeneration Injection Association of British Columbia [ARIABC](http://ariabc.org)
 |**Since 2015** Member of Society for Acupuncture Injection Therapy (SAIT)
-|**Since 2015** Registered Member of College of Traditional Chinese Medicine Practitioners of British Columbia [CTCMA](http://ctcma.bc.ca)
+|**Since 2015** Registered Member of College of Complementary Health Professionals of BC [CCHPBC](https://cchpbc.ca)
 |**Since 2013** Member of Association of TCM and Acupuncture of BC [ATCMA](http://atcma.org)
 |**Since 2013** BC Eastern Medicine Society
-|**Since 2012** Registered Member of College of Traditional Chinese Medicine Acupuncturists of British Columbia [CTCMA](http://ctcma.bc.ca)
+|**Since 2012** Registered Member of College of Complementary Health Professionals of BC [CCHPBC](https://cchpbc.ca)
 
 ## Other Experiencess
 
@@ -75,7 +75,7 @@ He never stops studying for his patients. He is passionate about studying herbal
 
 ![Oliviah](/assets/images/oliviah.jpg)
 
-Oliviah Kim is a registered acupuncturist (R.A.) with CTCMA and a Registered Massage Therapist (RMT) with CMTBC. She is passionate about deep tissue massage to treat body pain and to release stress. She uses massage techniques learned from both disciplines. They include Tui-Na massage therapy, cupping, moxibustion, aromatherapy, and lymph drainage.
+Oliviah Kim is a registered acupuncturist (R.A.) with CCHPBC and a Registered Massage Therapist (RMT) with CMTBC. She is passionate about deep tissue massage to treat body pain and to release stress. She uses massage techniques learned from both disciplines. They include Tui-Na massage therapy, cupping, moxibustion, aromatherapy, and lymph drainage.
 
 # Jasmine(Mi Kyung) Bae, R.Ac.
 
@@ -96,5 +96,5 @@ Jasmine has been working as a registered acupuncturist since 2007. She has been 
 
 {:.no_toc}
 
-|Since 2008 CTCMA Registered Acupuncturist (R.Ac)
+|Since 2008 CCHPBC Registered Acupuncturist (R.Ac)
 |Since 2013 Member of the British Columbia Association of TCM & Acupuncture Practitioners (ATCMA) -->

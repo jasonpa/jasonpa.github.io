@@ -60,7 +60,7 @@ permalink: /about/
                             Uniquely bridging Ancient Wisdom and Modern Analytical Precision to architect lasting health.
                         </p>
                         <p class="text-gray-700 leading-relaxed">
-                            Jiman Ryu is a registered acupuncturist and Traditional Chinese Medicine (TCM) practitioner in British Columbia. 
+                            Jiman Ryu is a registered acupuncturist and Traditional Chinese Medicine (TCM) practitioner. Licensed by the **CCHPBC** (College of Complementary Health Professionals of BC). 
                             His dual background in medical practice and software engineering allows him to "debug" complex health issues using a systematic, evidence-based approach.
                         </p>
                         <p class="text-gray-700 leading-relaxed">
@@ -130,7 +130,7 @@ permalink: /about/
                 <div class="glass-card !bg-slate-50 border-none">
                      <h3 class="text-xl font-bold text-clinic-dark mb-6">Professional Affiliations</h3>
                      <div class="flex flex-wrap gap-3">
-                        <span class="px-4 py-2 bg-white rounded-xl text-sm font-semibold text-gray-600 shadow-sm border border-slate-100 hover:text-clinic-teal transition-colors tracking-wide">CTCMA Registered</span>
+                        <span class="px-4 py-2 bg-white rounded-xl text-sm font-semibold text-gray-600 shadow-sm border border-slate-100 hover:text-clinic-teal transition-colors tracking-wide">CCHPBC Registered</span>
                         <span class="px-4 py-2 bg-white rounded-xl text-sm font-semibold text-gray-600 shadow-sm border border-slate-100 hover:text-clinic-teal transition-colors tracking-wide">NAANA Membership</span>
                         <span class="px-4 py-2 bg-white rounded-xl text-sm font-semibold text-gray-600 shadow-sm border border-slate-100 hover:text-clinic-teal transition-colors tracking-wide">AAAMA Associate</span>
                         <span class="px-4 py-2 bg-white rounded-xl text-sm font-semibold text-gray-600 shadow-sm border border-slate-100 hover:text-clinic-teal transition-colors tracking-wide">KOMAA Board member</span>
